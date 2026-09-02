@@ -2525,6 +2525,52 @@
       "topics": [],
       "stars": 49814,
       "readme_snippet": "\nEnglish | [简体中文](./README.zh-CN.md)\n\n# Hacker Scripts\n\nBased on a _[true\nstory](https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/)_:\n\n> xxx: OK, so, our build engineer has left for another company. The dude was literally living inside the terminal. You know, that type of a guy who loves Vim, creates diagrams in Dot and writes wiki-posts in Markdown... If something - anything - requires more than 90 seconds of his time, he writes a script to automate that.\n\n> xxx: So we're sitting here, looking through his, uhm, \"legacy\"\n\n> xxx: You're gonna love this\n\n> xxx: [`smack-my-bitch-up.sh`](https://github.com/NARKOZ/hacker-scripts/blob/master/smack-my-bitch-up.sh) - sends a text message \"late at work\" to his wife (apparently). Automatically picks reasons from an array of strings, randomly. Runs inside a cron-job. The job fires if there are active SSH-sessions on the server after 9pm with his login.\n\n> xxx: [`kumar-asshole.sh`](https://github.com/NARKOZ/hacker-scripts/blob/ma"
+    },
+    {
+      "id": 1328730284,
+      "repo": "msmahdinejad/SourceLens",
+      "url": "https://github.com/msmahdinejad/SourceLens",
+      "description": "Multilingual source-grounded research workspace with agentic RAG, cited chat, podcasts, PowerPoint, and video.",
+      "language": "Python",
+      "topics": [
+        "fastapi",
+        "gemini",
+        "knowledge-base",
+        "multilingual",
+        "pdf",
+        "podcast",
+        "powerpoint",
+        "rag",
+        "research-assistant",
+        "video-generation"
+      ],
+      "stars": 33,
+      "readme_snippet": "<div align=\"center\">\n  <img src=\"src/paperlens/web/favicon.svg\" width=\"88\" alt=\"SourceLens logo\">\n  <h1>SourceLens</h1>\n  <p><strong>Multilingual research, grounded in evidence.</strong></p>\n  <p>\n    Build a cited workspace from documents, media, notes, and the web—then turn that evidence<br>\n    into conversations, podcasts, editable slides, videos, reports, study aids, and visual summaries.\n  </p>\n\n  [![CI](https://github.com/msmahdinejad/SourceLens/actions/workflows/ci.yml/badge.svg)](https://github.com/msmahdinejad/SourceLens/actions/workflows/ci.yml)\n  [![Release](https://img.shields.io/badge/release-v2.2.2-0f766e)](https://github.com/msmahdinejad/SourceLens/releases/tag/v2.2.2)\n  [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)\n  [![Node 20+](https://img.shields.io/badge/Node.js-20%2B-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)\n  [![License: MIT](https://img.shields.io/badge/license-MIT-blue.s"
+    },
+    {
+      "id": 1196821690,
+      "repo": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "topics": [],
+      "stars": 7718,
+      "readme_snippet": "# ReClip\n\nA self-hosted, open-source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites — download as MP4 or MP3.\n\n![Python](https://img.shields.io/badge/python-3.8+-blue)\n![License](https://img.shields.io/badge/license-MIT-green)\n\nhttps://github.com/user-attachments/assets/419d3e50-c933-444b-8cab-a9724986ba05\n\n![ReClip MP3 Mode](assets/preview-mp3.png)\n\n## Features\n\n- Download videos from 1000+ supported sites (via [yt-dlp](https://github.com/yt-dlp/yt-dlp))\n- MP4 video or MP3 audio extraction\n- Quality/resolution picker\n- Bulk downloads — paste multiple URLs at once\n- Automatic URL deduplication\n- Clean, responsive UI — no frameworks, no build step\n- Single Python file backend (~150 lines)\n\n## Quick Start\n\n```bash\nbrew install yt-dlp ffmpeg    # or apt install ffmpeg && pip install yt-dlp\ngit clone https://github.com/averygan/reclip.git\ncd reclip\n./reclip.sh\n```\n\nOpen **http://localhost:8899**.\n\nOr with Docker"
+    },
+    {
+      "id": 1327738631,
+      "repo": "mobinhasanghasemi/backend-skill",
+      "url": "https://github.com/mobinhasanghasemi/backend-skill",
+      "description": "AI-readable neural knowledge base for backend architecture. Production-grade skill for Python/Django/DRF/PostgreSQL/Redis/Celery — design, review, performance, reliability, security & incident response.",
+      "language": "Python",
+      "topics": [
+        "backend",
+        "django",
+        "skill",
+        "skills"
+      ],
+      "stars": 9,
+      "readme_snippet": "# BACKEND ARCHITECT NEURAL\n\n**An AI-native backend engineering knowledge base.**\n\nOrganized as a neural knowledge graph — every file is a **neuron** with a defined purpose, activation conditions, and causal relationships. Built for AI agents (Claude, ChatGPT, Cursor, Codex, MiMoCode, and others) to dynamically activate only the relevant knowledge, apply quality gates, and produce production-grade decisions with reasoning traces.\n\n```\nRepository: https://github.com/mobinhasanghasemi/backend-skill\n```\n\n---\n\n## Table of Contents\n\n- [What is this?](#what-is-this)\n- [How it Works — Neural Architecture](#how-it-works--neural-architecture)\n  - [Cognitive Pipeline](#cognitive-pipeline)\n  - [Routing & Activation](#routing--activation)\n  - [The 4 Quality Engines](#the-4-quality-engines)\n  - [Evidence Protocol](#evidence-protocol)\n  - [Code Tiers](#code-tiers)\n  - [Architecture Linter](#architecture-linter)\n- [What's Inside](#whats-inside)\n  - [Knowledge Domains](#knowledge-domains)\n  - [Protocol"
     }
   ]
 }
