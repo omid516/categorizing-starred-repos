@@ -2571,6 +2571,46 @@
       ],
       "stars": 9,
       "readme_snippet": "# BACKEND ARCHITECT NEURAL\n\n**An AI-native backend engineering knowledge base.**\n\nOrganized as a neural knowledge graph — every file is a **neuron** with a defined purpose, activation conditions, and causal relationships. Built for AI agents (Claude, ChatGPT, Cursor, Codex, MiMoCode, and others) to dynamically activate only the relevant knowledge, apply quality gates, and produce production-grade decisions with reasoning traces.\n\n```\nRepository: https://github.com/mobinhasanghasemi/backend-skill\n```\n\n---\n\n## Table of Contents\n\n- [What is this?](#what-is-this)\n- [How it Works — Neural Architecture](#how-it-works--neural-architecture)\n  - [Cognitive Pipeline](#cognitive-pipeline)\n  - [Routing & Activation](#routing--activation)\n  - [The 4 Quality Engines](#the-4-quality-engines)\n  - [Evidence Protocol](#evidence-protocol)\n  - [Code Tiers](#code-tiers)\n  - [Architecture Linter](#architecture-linter)\n- [What's Inside](#whats-inside)\n  - [Knowledge Domains](#knowledge-domains)\n  - [Protocol"
+    },
+    {
+      "id": 1302690078,
+      "repo": "larashero3-dotcom/lieflat-charts",
+      "url": "https://github.com/larashero3-dotcom/lieflat-charts",
+      "description": "Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。",
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "charts",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "html",
+        "moxt",
+        "svg"
+      ],
+      "stars": 3795,
+      "readme_snippet": "# Lieflat Charts\n\n中文 | [English](README.en.md)\n\n[![Lieflat Charts：以统一的字体、留白、线条和动效建立自己的视觉语法的数据可视化 skill](docs/assets/readme-hero-zh.png)](https://moxt.ai/zh-CN/hub?view=skill&id=lieflat-charts)\n\nLieflat Charts 是一套遵循 Agent Skills 格式的数据可视化与报告生成 skill，可供 moxt、Claude Code、Codex 及其他兼容 `SKILL.md` 的 AI agent 使用。本 skill 在 [moxt.ai](https://moxt.ai) 制作，默认把数据做成有编辑感的图表；只有用户明确要求报告、年报、月报、白皮书、海报或 brief 时，才从 12 套中英文整页模板生成可发布的 HTML 报告。\n\n它以统一的字体、留白、线条和动效建立自己的视觉语法，包括以下几种视觉风格：\n\n- **Lupi（编辑叙事型）**：用细线、点阵、逐条记录和大量留白展开数据，强调真实单位、细节和旁注，适合论文、长文、年报与需要慢慢阅读的数据故事。\n- **Glance（快速判断型）**：用粗柱、大数字、色块和清晰排序提前聚合信息，让读者几秒内看懂高低、变化和异常，适合周报、汇报与 dashboard。\n- **Basics（基础编辑型）**：保留柱状图、折线图、环形图等熟悉轮廓，再用可数刻度、发丝线和编辑排版增加质感，适合结构简单或数据量较少的内容。\n\n此外还提供网络、路径和多段流向等独立交互大图。每张图都尽量保留数据的真实单位，同时让标题、旁注、来源和页面结构参与表达。\n\nMono 黑白灰是稳定的保底方案，同时也有彩色模式，目前支持青瓷蓝、椰林绿和编辑部红三种彩色色系，方便适配各种场景的数据可视化。Agent 会根据数据结构和使用场景，在 Mono、青瓷蓝、椰林绿或编辑部红之间自动选择；适配关系不明确时使用 Mono。用户明确提供品牌色或色值时，也可以建立一套 custom 色板。同一份 HTML 或同一组图只使用一种色彩系统，生成后仍可继续调色，同时保持图型结构、比例、对比度和数据契约。\n\n## Preview\n\n以下是几类模板的实际预览。\n\n##"
+    },
+    {
+      "id": 1323968979,
+      "repo": "exelite-dev/Free-Gemini-pro-API",
+      "url": "https://github.com/exelite-dev/Free-Gemini-pro-API",
+      "description": "Free, unlimited Google Gemini Pro API proxy completely compatible with OpenAI and Anthropic standards. Features auto cookie refresh, account pooling, and a beautiful admin dashboard.",
+      "language": "Python",
+      "topics": [
+        "ai-proxy",
+        "chatbot",
+        "fastapi",
+        "free-api",
+        "gemini-api",
+        "gemini-pro",
+        "llm",
+        "openai-proxy",
+        "python",
+        "unlimited-gemini"
+      ],
+      "stars": 12,
+      "readme_snippet": "# OmniBridge\n\n<div align=\"center\">\n<img src=\"docs/banner.png\" alt=\"Free Gemini Pro API\" width=\"100%\">\n\n<br>\n<a href=\"README.fa.md\"><strong>🇮🇷 برای مطالعه راهنمای فارسی اینجا کلیک کنید</strong></a>\n<br>\n\n[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)\n[![FastAPI](https://img.shields.io/badge/FastAPI-0.111+-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)\n[![Telegram](https://img.shields.io/badge/Telegram-Config__Vortex55-blue?style=flat-square&logo=telegram)](https://t.me/Config_Vortex55)\n[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)\n[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white)](Dockerfile)\n[![OpenAI Compatible](https://img.shields.io/badge/API-OpenAI%20Compatible-412991?style=flat-square)](https://platform.openai.com/docs/api-reference)\n[![Anthropic Compatible](https:/"
     }
   ]
 }
