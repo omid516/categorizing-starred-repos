@@ -2611,6 +2611,63 @@
       ],
       "stars": 12,
       "readme_snippet": "# OmniBridge\n\n<div align=\"center\">\n<img src=\"docs/banner.png\" alt=\"Free Gemini Pro API\" width=\"100%\">\n\n<br>\n<a href=\"README.fa.md\"><strong>🇮🇷 برای مطالعه راهنمای فارسی اینجا کلیک کنید</strong></a>\n<br>\n\n[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)\n[![FastAPI](https://img.shields.io/badge/FastAPI-0.111+-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)\n[![Telegram](https://img.shields.io/badge/Telegram-Config__Vortex55-blue?style=flat-square&logo=telegram)](https://t.me/Config_Vortex55)\n[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)\n[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white)](Dockerfile)\n[![OpenAI Compatible](https://img.shields.io/badge/API-OpenAI%20Compatible-412991?style=flat-square)](https://platform.openai.com/docs/api-reference)\n[![Anthropic Compatible](https:/"
+    },
+    {
+      "id": 1316675971,
+      "repo": "realrezi/Career-Booster",
+      "url": "https://github.com/realrezi/Career-Booster",
+      "description": "Autonomous AI-powered platform for academic, clinical, and executive CV tailoring, semantic match scoring, cover letter generation, and multi-theme PDF/Word exporting.",
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "cv-tailoring",
+        "docs",
+        "pdf",
+        "pdf-generation",
+        "react",
+        "resume",
+        "resume-analyzer",
+        "resume-builder",
+        "resume-creator",
+        "resume-generator",
+        "resume-parser"
+      ],
+      "stars": 5,
+      "readme_snippet": "# 🚀 Career Booster — AI-Powered Academic & Executive Career Engine\n\n[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-6366f1?style=for-the-badge&logo=vercel)](https://career-booster-delta.vercel.app)\n[![License](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge)](LICENSE)\n[![Python](https://img.shields.io/badge/Backend-FastAPI_/_Python-3776ab?style=for-the-badge&logo=python)](https://fastapi.tiangolo.com)\n[![React](https://img.shields.io/badge/Frontend-React_/_Vite-61dafb?style=for-the-badge&logo=react)](https://react.dev)\n\n> **Career Booster** is an autonomous, publication-grade career platform designed for academics, researchers, and executives. It parses existing PDF CVs into structured Ground Truth data, evaluates job vacancy alignment in real time, tailors qualifications with zero hallucination, and generates customized Cover & Motivation Letters.\n\nDeveloped by **[Ahmadreza Shirdel](https://github.com/realrezi)**.\n\n---\n\n## 🌟 Core Features & Capabilities"
+    },
+    {
+      "id": 1263246687,
+      "repo": "sin-soheili/ChatPack",
+      "url": "https://github.com/sin-soheili/ChatPack",
+      "description": "A lightweight interactive UI toolkit for Pyrogram  to build multi-step forms and conversational flows with zero boilerplate.  and more?...🎒💬",
+      "language": "Python",
+      "topics": [],
+      "stars": 14,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/sin-soheili/chatpack/main/assets/banner.jpg\" alt=\"ChatPack Banner\" width=\"100%\" style=\"border-radius: 10px;\" />\n</p>\n\n##\n\n<table align=\"center\" style=\"border-width: 0px; border-style: none; border-collapse: collapse;\">\n  <tr>\n    <td align=\"center\" valign=\"middle\" style=\"border: none; padding: 20px;\">\n      <img src=\"https://raw.githubusercontent.com/sin-soheili/chatpack/main/assets/logo.png\" width=\"140\" alt=\"ChatPack Logo\" style=\"border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);\"/>\n    </td>\n    <td align=\"left\" valign=\"middle\" style=\"border: none; padding: 20px;\">\n      <h1 style=\"margin: 0 0 5px 0; border-bottom: none; font-size: 2.5em;\">ChatPack 📦</h1>\n      <p style=\"margin: 0 0 10px 0; font-size: 1.1em; color: #586069;\">\n        <b>An advanced, production-ready, asynchronous UI component toolkit built on top of Pyrogram.</b>\n      </p>\n      <p style=\"margin: 0 0 15px 0; font-style: italic; color: #6a737"
+    },
+    {
+      "id": 1358077003,
+      "repo": "nexouya/nexus-clipboard",
+      "url": "https://github.com/nexouya/nexus-clipboard",
+      "description": "A blazing-fast, private, local-first clipboard manager for Windows built with Rust & Tauri 2.",
+      "language": "Rust",
+      "topics": [
+        "clipboard-manager",
+        "desktop-app",
+        "fts5",
+        "local-first",
+        "privacy",
+        "productivity",
+        "react19",
+        "rust",
+        "sqlite",
+        "tauri",
+        "tauri-v2",
+        "typescript",
+        "windows"
+      ],
+      "stars": 20,
+      "readme_snippet": "<div align=\"center\">\n\n# Nexus Clipboard\n\n**A fast, private, local-first clipboard manager for Windows that respects your RAM.**\n\n[![Release](https://img.shields.io/github/v/release/nexouya/nexus-clipboard?color=6366f1&style=flat-square&label=latest%20release)](https://github.com/nexouya/nexus-clipboard/releases/latest)\n[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/nexouya/nexus-clipboard/releases/latest)\n[![License](https://img.shields.io/badge/license-AGPL--3.0-purple?style=flat-square)](LICENSE)\n[![Built with Rust](https://img.shields.io/badge/engine-Rust%20%2B%20Tauri%202-dea584?style=flat-square&logo=rust)](https://v2.tauri.app/)\n[![UI](https://img.shields.io/badge/ui-React%2019%20%2B%20Tailwind%20v4-61DAFB?style=flat-square&logo=react)](https://react.dev/)\n\n<br />\n\n<p align=\"center\">\n  <a href=\"#-quick-download\"><b>Download (.exe)</b></a> •\n  <a href=\"#-why-nexus\"><b>Why Nexus?<"
     }
   ]
 }
