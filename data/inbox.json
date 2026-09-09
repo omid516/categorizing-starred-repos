@@ -2668,6 +2668,26 @@
       ],
       "stars": 20,
       "readme_snippet": "<div align=\"center\">\n\n# Nexus Clipboard\n\n**A fast, private, local-first clipboard manager for Windows that respects your RAM.**\n\n[![Release](https://img.shields.io/github/v/release/nexouya/nexus-clipboard?color=6366f1&style=flat-square&label=latest%20release)](https://github.com/nexouya/nexus-clipboard/releases/latest)\n[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/nexouya/nexus-clipboard/releases/latest)\n[![License](https://img.shields.io/badge/license-AGPL--3.0-purple?style=flat-square)](LICENSE)\n[![Built with Rust](https://img.shields.io/badge/engine-Rust%20%2B%20Tauri%202-dea584?style=flat-square&logo=rust)](https://v2.tauri.app/)\n[![UI](https://img.shields.io/badge/ui-React%2019%20%2B%20Tailwind%20v4-61DAFB?style=flat-square&logo=react)](https://react.dev/)\n\n<br />\n\n<p align=\"center\">\n  <a href=\"#-quick-download\"><b>Download (.exe)</b></a> •\n  <a href=\"#-why-nexus\"><b>Why Nexus?<"
+    },
+    {
+      "id": 1332504200,
+      "repo": "devlifeX/BiFlow",
+      "url": "https://github.com/devlifeX/BiFlow",
+      "description": "Right traffic. Right route.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 6,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"apps/desktop/src/assets/logo.png\" alt=\"BiFlow logo\" width=\"112\" />\n</p>\n\n<h1 align=\"center\">BiFlow</h1>\n\n<p align=\"center\"><strong>Right traffic. Right route.</strong></p>\n\n<p align=\"center\">\n  Iranian and private traffic stays on the local internet.<br />\n  Everything else follows the VPN client you already use — Hiddify, Happ, and friends.\n</p>\n\n<p align=\"center\">\n  <a href=\"#features\">Features</a>\n  ·\n  <a href=\"#how-it-works\">How it works</a>\n  ·\n  <a href=\"#architecture\">Architecture</a>\n  ·\n  <a href=\"#develop\">Develop</a>\n  ·\n  <a href=\"#faq\">FAQ</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/screenshots/desktop.png\" alt=\"BiFlow desktop dashboard while split routing is active\" width=\"800\" />\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/screenshots/diagnostics.png\" alt=\"Diagnostics with Reachability probes for Google, Facebook, and iran.ir, plus the live connections table\" width=\"800\" />\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/screenshots/mobile.png\" "
+    },
+    {
+      "id": 716074044,
+      "repo": "persian-tools/rust-persian-tools",
+      "url": "https://github.com/persian-tools/rust-persian-tools",
+      "description": "Rust version of Persian Tools",
+      "language": "Rust",
+      "topics": [],
+      "stars": 76,
+      "readme_snippet": "# Rust-Persian-Tools\n\n<img src=\"./logo.png\" width=\"300\">\n\n[![GitHub license](https://badgen.net/github/license/persian-tools/rust-persian-tools)](https://github.com/persian-tools/rust-persian-tools/blob/master/LICENSE)\n\nRust🦀 implementation of [Persian-Tools](https://github.com/persian-tools/persian-tools)\n\nNote: These tools are totally offline (no api calls)\n\nThere is also a [CLI](https://github.com/ali77gh/PersianToolsCli) And a [WebApp](https://ali77gh.github.io/PersianToolsWeb/) powered by this library.\n\n## Useful links\n\n1. Documentation: [docs.rs](https://docs.rs/rust-persian-tools/1.0.0/rust_persian_tools/)\n2. Installation: [crates.io](https://crates.io/crates/rust-persian-tools)\n3. Source code: [github.com](https://github.com/persian-tools/rust-persian-tools/tree/master/src)\n\n## Table of features\n\n| name                          | docs     | description  |\n|-------------------------------|----------|--------------|\n| add_ordinal_suffix            | [link](https://docs.rs/rust-pe"
     }
   ]
 }
