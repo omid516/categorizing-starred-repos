@@ -2688,6 +2688,16 @@
       "topics": [],
       "stars": 76,
       "readme_snippet": "# Rust-Persian-Tools\n\n<img src=\"./logo.png\" width=\"300\">\n\n[![GitHub license](https://badgen.net/github/license/persian-tools/rust-persian-tools)](https://github.com/persian-tools/rust-persian-tools/blob/master/LICENSE)\n\nRust🦀 implementation of [Persian-Tools](https://github.com/persian-tools/persian-tools)\n\nNote: These tools are totally offline (no api calls)\n\nThere is also a [CLI](https://github.com/ali77gh/PersianToolsCli) And a [WebApp](https://ali77gh.github.io/PersianToolsWeb/) powered by this library.\n\n## Useful links\n\n1. Documentation: [docs.rs](https://docs.rs/rust-persian-tools/1.0.0/rust_persian_tools/)\n2. Installation: [crates.io](https://crates.io/crates/rust-persian-tools)\n3. Source code: [github.com](https://github.com/persian-tools/rust-persian-tools/tree/master/src)\n\n## Table of features\n\n| name                          | docs     | description  |\n|-------------------------------|----------|--------------|\n| add_ordinal_suffix            | [link](https://docs.rs/rust-pe"
+    },
+    {
+      "id": 1362818308,
+      "repo": "weederace/FOMO",
+      "url": "https://github.com/weederace/FOMO",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stars": 6,
+      "readme_snippet": "# FOMO Whale Intelligence\n\nAn analytics-only platform for discovering and monitoring traders from legitimately\naccessible public data. It does not trade, bypass access controls, or collect credentials.\n\n## Quick start (no experience needed)\n\n1. Install **Python 3.12+** from [python.org](https://www.python.org/downloads/) —\n   tick **\"Add python.exe to PATH\"** during setup.\n2. Double-click **`run.bat`**.\n\nThat is all the first run needs: it creates a virtual environment, installs every\ndependency from `requirements.txt` automatically, downloads Chromium, writes `.env`\nfrom `.env.example`, and opens the app. Later runs go straight to the window.\n\n3. (Optional) Click **API settings** in the launcher to paste your own free API keys\n   — GMGN ([gmgn.ai/ai](https://gmgn.ai/ai)), CoinGecko, Etherscan — then restart the\n   worker. Every key unlocks its own feature; the app runs fine with none of them.\n\n## Run on Windows\n\nDouble-click `run.bat`. On the first run it creates `.venv`, installs the"
     }
   ]
 }
