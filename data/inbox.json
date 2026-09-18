@@ -2739,6 +2739,33 @@
       ],
       "stars": 9392,
       "readme_snippet": "<div align=\"center\">\n\n<a href=\"https://www.openui.com\" target=\"_blank\" rel=\"noopener noreferrer\">\n  <img \n    src=\"./assets/banner.png\" \n    alt=\"OpenUI - The Open Standard for Generative UI\" \n    width=\"100%\" \n    style=\"cursor: pointer;\"\n  >\n</a>\n\n# OpenUI - The Open Standard for Generative UI\n\n<p align=\"center\">\n  <a href=\"https://github.com/thesysdev/openui/actions/workflows/build-js.yml\"><img alt=\"Build\" src=\"https://github.com/thesysdev/openui/actions/workflows/build-js.yml/badge.svg\"></a>\n  <a href=\"./LICENSE\"><img alt=\"License: MIT\" src=\"https://img.shields.io/badge/License-MIT-blue.svg\"></a>\n  <a href=\"https://discord.com/invite/Pbv5PsqUSv\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FPbv5PsqUSv%3Fwith_counts%3Dtrue&query=%24.approximate_presence_count&label=Discord&suffix=%20online&logo=discord&logoColor=white&color=5865F2\"></a>\n</p>\n\n<a href=\"https://trendshift.io/repositories/22357\" target=\"_blank\"><"
+    },
+    {
+      "id": 1172273835,
+      "repo": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "topics": [
+        "claude-ai",
+        "claude-pt",
+        "claude-skills",
+        "redteam",
+        "redteam-tools",
+        "skills"
+      ],
+      "stars": 6042,
+      "readme_snippet": "![claude-red banner](/assets/banner.png)\n\n<div align=\"center\">\n\n# claude-red\n\n**Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team operator.**\n\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![Skills](https://img.shields.io/badge/skills-78-red.svg)](#skill-index)\n[![Categories](https://img.shields.io/badge/categories-23-orange.svg)](#categories)\n[![Stars](https://img.shields.io/github/stars/SnailSploit/claude-red?style=social)](https://github.com/SnailSploit/claude-red)\n[![Forks](https://img.shields.io/github/forks/SnailSploit/claude-red?style=social)](https://github.com/SnailSploit/claude-red/network/members)\n\n[Overview](#overview) &bull; [Quickstart](#quickstart) &bull; [Categories](#categories) &bull; [Skill Index](#skill-index) &bull; [Roadmap](#roadmap) &bull; [Contributing](#contributing)\n\n</div>\n\n---\n\n## Overview\n\n`claude-red` is a curated library of offensive security skills for the [Cla"
+    },
+    {
+      "id": 1361983219,
+      "repo": "jaskirat1616/mactap-app",
+      "url": "https://github.com/jaskirat1616/mactap-app",
+      "description": "MacTap — knock your MacBook to run shortcuts",
+      "language": "Swift",
+      "topics": [],
+      "stars": 348,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"website/assets/icon.png\" width=\"140\" alt=\"MacTap app icon\">\n</p>\n\n<h1 align=\"center\">MacTap</h1>\n\n<p align=\"center\">\n  <strong>Knock the MacBook. The app does the rest.</strong><br>\n  <a href=\"https://mactap.vercel.app\">mactap.vercel.app</a>\n  ·\n  <a href=\"https://github.com/jaskirat1616/mactap-app/releases/latest\">Download</a>\n  ·\n  <a href=\"https://github.com/jaskirat1616/mactap-app\">GitHub</a>\n</p>\n\nMacTap lives in the menu bar and turns taps on the chassis — or the desk underneath a still laptop — into shortcuts. One, two, or three knocks. Copy, paste, Accept, screenshots, media, or whatever you map.\n\nRequires a MacBook whose motion sensor is exposed as an SPU HID device: **M2 and later**, or **M1 Pro / Max / Ultra**. The original M1 Air (`MacBookAir10,1`) and some other M1 models do not publish the accelerometer HID report MacTap reads, so knocks cannot be detected. macOS 14.6 or later.\n\nMacTap does **not** fall back to rebinding arrow keys when the "
     }
   ]
 }
