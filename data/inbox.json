@@ -2766,6 +2766,54 @@
       "topics": [],
       "stars": 348,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"website/assets/icon.png\" width=\"140\" alt=\"MacTap app icon\">\n</p>\n\n<h1 align=\"center\">MacTap</h1>\n\n<p align=\"center\">\n  <strong>Knock the MacBook. The app does the rest.</strong><br>\n  <a href=\"https://mactap.vercel.app\">mactap.vercel.app</a>\n  ·\n  <a href=\"https://github.com/jaskirat1616/mactap-app/releases/latest\">Download</a>\n  ·\n  <a href=\"https://github.com/jaskirat1616/mactap-app\">GitHub</a>\n</p>\n\nMacTap lives in the menu bar and turns taps on the chassis — or the desk underneath a still laptop — into shortcuts. One, two, or three knocks. Copy, paste, Accept, screenshots, media, or whatever you map.\n\nRequires a MacBook whose motion sensor is exposed as an SPU HID device: **M2 and later**, or **M1 Pro / Max / Ultra**. The original M1 Air (`MacBookAir10,1`) and some other M1 models do not publish the accelerometer HID report MacTap reads, so knocks cannot be detected. macOS 14.6 or later.\n\nMacTap does **not** fall back to rebinding arrow keys when the "
+    },
+    {
+      "id": 1197515131,
+      "repo": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": "Not specified",
+      "topics": [
+        "awesome-list",
+        "design-md",
+        "design-system",
+        "design-tokens",
+        "figma",
+        "google-stitch",
+        "landing-page",
+        "vibe-coding",
+        "vibe-design",
+        "vibecoding"
+      ],
+      "stars": 116702,
+      "readme_snippet": "\n<a href=\"https://github.com/VoltAgent/voltagent\">\n     <img width=\"1500\"  alt=\"claude-skills\" src=\"https://cdn.voltagent.dev/awesome-repo/logo.json.svg\" />\n</a>\n\n\n<br/>\n<br/>\n\n<div align=\"center\">\n    <strong>Curated collection of DESIGN.md analysis by developer focused websites.</strong>\n    <br />\n    <br />\n\n</div>\n\n<div align=\"center\">\n\n[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-73-10b981?style=classic)\n[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-design-md?label=Last%20update&style=classic)](https://github.com/VoltAgent/awesome-design-md)\n[![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)\n\n</div>\n</div>\n\n# Awesome DESIGN.md\n\nCopy a DESIGN.md into your project, tell your AI agent “build me a page that looks like this,” and generate high-quality UI t"
+    },
+    {
+      "id": 1373301457,
+      "repo": "nimaone/persian_tts",
+      "url": "https://github.com/nimaone/persian_tts",
+      "description": "Persian text-to-speech with voice cloning, fully offline on CPU (ONNX + torch paths)",
+      "language": "Python",
+      "topics": [],
+      "stars": 38,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"web/logo.png\" width=\"128\" alt=\"لوگوی پارسی‌گو\">\n\n<h1 align=\"center\">پارسی‌گو (تبدیل متن فارسی به گفتار)</h1>\n\n<p align=\"center\"><b>pocket-tts-farsi-v2 — ONNX version setup</b></p>\n\n**فارسی** | [English](README.en.md)\n\n<a href=\"docs/demo.mp4\"><img src=\"docs/demo-poster.jpg\" width=\"640\" alt=\"دموی ویدیویی پارسی‌گو — انتخاب صدا، تایپ متن و تولید گفتار در وب‌اپ\"></a>\n\nhttps://github.com/user-attachments/assets/dfc735c3-65fb-473a-a437-747efd8ede20\n\n🎬 **دموی ویدیویی ۷۰ ثانیه‌ای (با صدا)** — انتخاب صدای مرجع، تولید جملهٔ نمونه،\nآپلود یک نمونهٔ صوتی ۵ ثانیه‌ای و کلونینگ آن روی یک پاراگراف بلند.\n(نسخهٔ دانلودی داخل ریپو: [docs/demo.mp4](docs/demo.mp4) — پوستر:\n[docs/demo-poster.jpg](docs/demo-poster.jpg))\n\n</div>\n\nتبدیل متن فارسی به گفتار با **کلونینگ صدا**، کاملاً آفلاین روی **CPU** — بدون GPU، بدون\nارتباط با اینترنت در زمان اجرا. متن فارسی را مستقیم می‌گیرد، فونم‌سازی و سنتز را خودش\nانجام می‌دهد و خروجی WAV با نرخ نمونه ۲۴ کیلوهرتز میدهد.\n\nدو مسیر اجرا دارد:\n\n- "
+    },
+    {
+      "id": 1370916260,
+      "repo": "mmdju/digikala-mcp",
+      "url": "https://github.com/mmdju/digikala-mcp",
+      "description": "MCP server for Digikala: search, compare and price-check products on Iran's largest marketplace. Read-only, no API key. 16 tools, hosted on Cloudflare Workers.",
+      "language": "JavaScript",
+      "topics": [
+        "cloudflare-workers",
+        "digikala",
+        "iran",
+        "mcp",
+        "model-context-protocol",
+        "persian"
+      ],
+      "stars": 90,
+      "readme_snippet": "# Digikala MCP - Shop intelligence for AI agents\n\n![Digikala MCP banner](assets/digikala-mcp.png)\n\nA public MCP server that gives AI agents **real Digikala knowledge**: search, **prices in Toman**, discounts, ratings, sellers, reviews, deals and bestsellers. **Read-only, no key needed.**\n\n**Live endpoint:** `https://digikala-mcp.mmdju.workers.dev/mcp` (Streamable HTTP, stateless)\n\n**[نسخه فارسی](README_FA.md)** · **[Examples](examples/sample-calls.md)** · **[Tool reference](docs/tools.md)** · **[Changelog](CHANGELOG.md)**\n\n## Connect in 30 seconds\n\nAny MCP client, **one URL**. Cline / Cursor / Claude Desktop (`mcp.json` style):\n\n```json\n{\n  \"mcpServers\": {\n    \"digikala\": { \"url\": \"https://digikala-mcp.mmdju.workers.dev/mcp\" }\n  }\n}\n```\n\nThen just talk: **\"best Samsung phone under 20 million Toman\"**, **\"is this laptop any good?\"**, **\"what is on deal today?\"**, **\"what is popular in Iran right now?\"**.\n\nAgents running in a browser work too - the endpoint answers CORS preflights (`OPTI"
     }
   ]
 }
