@@ -2814,6 +2814,25 @@
       ],
       "stars": 90,
       "readme_snippet": "# Digikala MCP - Shop intelligence for AI agents\n\n![Digikala MCP banner](assets/digikala-mcp.png)\n\nA public MCP server that gives AI agents **real Digikala knowledge**: search, **prices in Toman**, discounts, ratings, sellers, reviews, deals and bestsellers. **Read-only, no key needed.**\n\n**Live endpoint:** `https://digikala-mcp.mmdju.workers.dev/mcp` (Streamable HTTP, stateless)\n\n**[نسخه فارسی](README_FA.md)** · **[Examples](examples/sample-calls.md)** · **[Tool reference](docs/tools.md)** · **[Changelog](CHANGELOG.md)**\n\n## Connect in 30 seconds\n\nAny MCP client, **one URL**. Cline / Cursor / Claude Desktop (`mcp.json` style):\n\n```json\n{\n  \"mcpServers\": {\n    \"digikala\": { \"url\": \"https://digikala-mcp.mmdju.workers.dev/mcp\" }\n  }\n}\n```\n\nThen just talk: **\"best Samsung phone under 20 million Toman\"**, **\"is this laptop any good?\"**, **\"what is on deal today?\"**, **\"what is popular in Iran right now?\"**.\n\nAgents running in a browser work too - the endpoint answers CORS preflights (`OPTI"
+    },
+    {
+      "id": 1352152628,
+      "repo": "uiuxlabz/uiuxlabz",
+      "url": "https://github.com/uiuxlabz/uiuxlabz",
+      "description": "Premium free HTML website templates marketplace — 120+ framework-free, MIT-licensed templates for every industry. Each template is a separate repo with a live GitHub Pages demo.",
+      "language": "HTML",
+      "topics": [
+        "free-templates",
+        "github-pages",
+        "html-css",
+        "html-templates",
+        "open-source",
+        "uiux",
+        "web-design",
+        "website-template"
+      ],
+      "stars": 14,
+      "readme_snippet": "# uiuxlabz — Premium Free HTML Website Templates\n\n> A curated marketplace of **120+ premium, framework-free HTML templates** — each one designed from its subject, MIT licensed, fully responsive and ready to deploy on GitHub Pages.\n\n## ✨ Why uiuxlabz?\n\n- **Topic-driven originality** — every template is bespoke, never a recolored scaffold\n- **Framework-free** — pure HTML5, CSS and vanilla JavaScript, zero dependencies\n- **MIT licensed** — free for personal, commercial and client projects\n- **GitHub Pages ready** — every repo ships with a deploy workflow\n- **Mobile-first & SEO-friendly** — semantic markup, accessible, fast\n\n## 🌐 Live Site\n\n- **Marketplace:** https://uiuxlabz.github.io/uiuxlabz/\n\n## 🗂️ How It's Organized\n\nEach template lives in its own repository under the `uiuxlabz` GitHub organization, and is listed in this marketplace with a dedicated page covering its features, pages/sections, FAQ and links to the repo and live demo.\n\n- `templates/<name>.html` — dedicated page for each"
     }
   ]
 }
