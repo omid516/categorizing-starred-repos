@@ -2833,6 +2833,40 @@
       ],
       "stars": 14,
       "readme_snippet": "# uiuxlabz — Premium Free HTML Website Templates\n\n> A curated marketplace of **120+ premium, framework-free HTML templates** — each one designed from its subject, MIT licensed, fully responsive and ready to deploy on GitHub Pages.\n\n## ✨ Why uiuxlabz?\n\n- **Topic-driven originality** — every template is bespoke, never a recolored scaffold\n- **Framework-free** — pure HTML5, CSS and vanilla JavaScript, zero dependencies\n- **MIT licensed** — free for personal, commercial and client projects\n- **GitHub Pages ready** — every repo ships with a deploy workflow\n- **Mobile-first & SEO-friendly** — semantic markup, accessible, fast\n\n## 🌐 Live Site\n\n- **Marketplace:** https://uiuxlabz.github.io/uiuxlabz/\n\n## 🗂️ How It's Organized\n\nEach template lives in its own repository under the `uiuxlabz` GitHub organization, and is listed in this marketplace with a dedicated page covering its features, pages/sections, FAQ and links to the repo and live demo.\n\n- `templates/<name>.html` — dedicated page for each"
+    },
+    {
+      "id": 1373655162,
+      "repo": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "description": "Fastest and cheapest web agent",
+      "language": "Python",
+      "topics": [],
+      "stars": 16060,
+      "readme_snippet": "<img src=\"docs/banner.svg\" alt=\"Jev Ultrafast · Browser Use × TypeSafe\" width=\"100%\" />\n\n# Jev Ultrafast ⚡\n\n> [!IMPORTANT]\n> **The Browser Use Cloud waitlist is open.** Get early access to ultrafast browser agents in the cloud.\n> **[Join the waitlist →](https://browser-use.com/ultrafast?utm_source=github&utm_medium=readme&utm_campaign=jev-ultrafast)**\n\n**A browser agent with a dynamic, indexed action space.**\n\nGive it one goal. [TypeSafe's Jev](https://docs.typesafe.ai/introduction) picks an operation and an element. A small LLM writes text only when the operation is `TYPE_TEXT`.\n\n**Zürich → London on Google Flights in 7.1 seconds.** One natural-language goal, actual text generation, and loading waits included.\n\n<a href=\"docs/demo.mp4\"><img src=\"docs/demo.gif\" alt=\"A real Google Flights search at 1× speed, with generated city names and dynamic operation/target decisions\" width=\"100%\" /></a>\n\n[Watch the MP4](docs/demo.mp4) · [Measurements](docs/performance.md) · [Read the loop](jev_ultr"
+    },
+    {
+      "id": 1273427276,
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 19070,
+      "readme_snippet": "# security-audit\n\nA coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting.\n\nThis is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, fleet-wide system; this skill is the single-repo starting point it evolved from.\n\n## What it does\n\nThe skill runs a structured audit in six phases:\n\n1. **Reconnaissance** -- map architecture, trust boundaries, input surfaces, prior evidence, and deterministic coverage in `architecture.md` and `coverage-ledger.json`.\n2. **Coverage-led hunting** -- assign isolated hunters from ledger units, record their checks, and use coverage critics to find gaps.\n3. **Candidate validation** -- give every uniqu"
+    },
+    {
+      "id": 1375069862,
+      "repo": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "language": "Python",
+      "topics": [
+        "decision-model",
+        "jev",
+        "qwen3"
+      ],
+      "stars": 2548,
+      "readme_snippet": "# Kev\n\nSmall Jev-like decision models you can train and run yourself.\n\n<p>\n  <a href=\"https://github.com/jaredpalmer/kev/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://img.shields.io/github/actions/workflow/status/jaredpalmer/kev/ci.yml?style=for-the-badge&labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://huggingface.co/collections/jaredpalmer/kev-6aad9d0ea49f2589665e07cd\"><img alt=\"Weights: Kev-0.8B · 4B · 9B\" src=\"https://img.shields.io/badge/WEIGHTS-0.8B%20%C2%B7%204B%20%C2%B7%209B-0a0a0a.svg?style=for-the-badge&labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://huggingface.co/spaces/jaredpalmer/kev\"><img alt=\"Demo on Hugging Face Spaces\" src=\"https://img.shields.io/badge/DEMO-HF%20Spaces-0a0a0a.svg?style=for-the-badge&labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://huggingface.co/datasets/jaredpalmer/kev-suites\"><img alt=\"Frozen eval suites\" src=\"https://img.shields.io/badge/EVAL%20SUITES-frozen-0a0a0a.svg?style=for-the-badge&labelColor=000000\" height=\"28\"></a"
     }
   ]
 }
