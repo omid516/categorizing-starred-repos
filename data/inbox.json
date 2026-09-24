@@ -2867,6 +2867,34 @@
       ],
       "stars": 2548,
       "readme_snippet": "# Kev\n\nSmall Jev-like decision models you can train and run yourself.\n\n<p>\n  <a href=\"https://github.com/jaredpalmer/kev/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://img.shields.io/github/actions/workflow/status/jaredpalmer/kev/ci.yml?style=for-the-badge&labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://huggingface.co/collections/jaredpalmer/kev-6aad9d0ea49f2589665e07cd\"><img alt=\"Weights: Kev-0.8B · 4B · 9B\" src=\"https://img.shields.io/badge/WEIGHTS-0.8B%20%C2%B7%204B%20%C2%B7%209B-0a0a0a.svg?style=for-the-badge&labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://huggingface.co/spaces/jaredpalmer/kev\"><img alt=\"Demo on Hugging Face Spaces\" src=\"https://img.shields.io/badge/DEMO-HF%20Spaces-0a0a0a.svg?style=for-the-badge&labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://huggingface.co/datasets/jaredpalmer/kev-suites\"><img alt=\"Frozen eval suites\" src=\"https://img.shields.io/badge/EVAL%20SUITES-frozen-0a0a0a.svg?style=for-the-badge&labelColor=000000\" height=\"28\"></a"
+    },
+    {
+      "id": 344949361,
+      "repo": "Mathieu2301/TradingView-API",
+      "url": "https://github.com/Mathieu2301/TradingView-API",
+      "description": "📈 Get real-time stocks from TradingView",
+      "language": "JavaScript",
+      "topics": [
+        "backtesting",
+        "backtesting-trading-strategies",
+        "bitcoin",
+        "charts",
+        "crypto",
+        "cryptocurrency",
+        "ethereum",
+        "realtime-stocks",
+        "stocks",
+        "stocks-api",
+        "stocks-prices",
+        "trading",
+        "tradingview",
+        "tradingview-api",
+        "tradingview-indicator",
+        "tradingview-replay",
+        "tradingview-scraper"
+      ],
+      "stars": 5309,
+      "readme_snippet": "# TradingView API [![GitHub stars](https://img.shields.io/github/stars/Mathieu2301/TradingView-API.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Mathieu2301/TradingView-API/stargazers/)\n\n[![Tests](https://github.com/Mathieu2301/TradingView-API/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/Mathieu2301/TradingView-API/actions/workflows/tests.yml)\n[![CodeFactor](https://www.codefactor.io/repository/github/mathieu2301/tradingview-api/badge/main)](https://www.codefactor.io/repository/github/mathieu2301/tradingview-api/overview/main)\n[![GitHub latest commit](https://img.shields.io/github/last-commit/Mathieu2301/TradingView-API)](https://GitHub.com/Mathieu2301/TradingView-API/commit/)\n[![Npm package yearly downloads](https://badgen.net/npm/dt/@mathieuc/tradingview)](https://npmjs.com/@mathieuc/tradingview)\n[![Minimum node.js version](https://badgen.net/npm/node/@mathieuc/tradingview)](https://npmjs.com/@mathieuc/tradingview)\n[![Npm package version](h"
     }
   ]
 }
