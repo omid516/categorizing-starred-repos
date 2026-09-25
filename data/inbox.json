@@ -2895,6 +2895,41 @@
       ],
       "stars": 5309,
       "readme_snippet": "# TradingView API [![GitHub stars](https://img.shields.io/github/stars/Mathieu2301/TradingView-API.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Mathieu2301/TradingView-API/stargazers/)\n\n[![Tests](https://github.com/Mathieu2301/TradingView-API/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/Mathieu2301/TradingView-API/actions/workflows/tests.yml)\n[![CodeFactor](https://www.codefactor.io/repository/github/mathieu2301/tradingview-api/badge/main)](https://www.codefactor.io/repository/github/mathieu2301/tradingview-api/overview/main)\n[![GitHub latest commit](https://img.shields.io/github/last-commit/Mathieu2301/TradingView-API)](https://GitHub.com/Mathieu2301/TradingView-API/commit/)\n[![Npm package yearly downloads](https://badgen.net/npm/dt/@mathieuc/tradingview)](https://npmjs.com/@mathieuc/tradingview)\n[![Minimum node.js version](https://badgen.net/npm/node/@mathieuc/tradingview)](https://npmjs.com/@mathieuc/tradingview)\n[![Npm package version](h"
+    },
+    {
+      "id": 1374853179,
+      "repo": "Heman10x-NGU/Verdict-open-jev",
+      "url": "https://github.com/Heman10x-NGU/Verdict-open-jev",
+      "description": "Non-autoregressive decision engine on ModernBERT (151M) with calibrated uncertainty (RLCD), TypeSafe AI Jev benchmark audit, and in-browser WebGPU playground",
+      "language": "Python",
+      "topics": [
+        "brier-score",
+        "calibration",
+        "decision-engine",
+        "edge-ai",
+        "gliclass",
+        "jev",
+        "modernbert",
+        "onnx",
+        "rlcd",
+        "structured-outputs",
+        "system-1",
+        "typesafe-ai",
+        "webgpu",
+        "zero-token-generation"
+      ],
+      "stars": 97,
+      "readme_snippet": "# OpenJev (Verdict): Non-Autoregressive Decision Engine (151M)\n\n[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-heman10x%2Frlcd--modernbert--151m-blue)](https://huggingface.co/heman10x/rlcd-modernbert-151m)\n[![GitHub Repository](https://img.shields.io/badge/GitHub-Verdict--open--jev-black?logo=github)](https://github.com/Heman10x-NGU/Verdict-open-jev)\n[![WebGPU Demo](https://img.shields.io/badge/WebGPU-In--Browser%20Playground-green)](#running-the-in-browser-webgpu-playground)\n[![Backbone](https://img.shields.io/badge/Backbone-ModernBERT%20%2B%20GLiClass-orange)](#upstream-credits-and-licenses)\n[![Calibration](https://img.shields.io/badge/Calibration-RLCD%20%2B%20Brier%20Loss-purple)](#reinforcement-learning-for-calibrated-decisions-rlcd)\n[![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)\n\n**OpenJev (Verdict)** is an open-source, post-trained foundational decision model designed for structured software workflows, inspired by **Type"
+    },
+    {
+      "id": 1383977800,
+      "repo": "samyost1/3dicon",
+      "url": "https://github.com/samyost1/3dicon",
+      "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "language": "Python",
+      "topics": [],
+      "stars": 384,
+      "readme_snippet": "# /3dicon\n\n**One prompt in, a looping animated 3D icon out** (with real transparency) an animated WebP you can drop straight into your app UI.\n\n<p align=\"center\">\n  <img src=\"skills/3dicon/examples/banner.webp\" width=\"820\" alt=\"eight icons looping around the /3dicon wordmark\">\n</p>\n\n\n\n## Install\n\n```\n/plugin marketplace add samyost1/3dicon\n/plugin install 3dicon\n```\n\nOne OpenRouter key covers the whole pipeline — the image model and the video\nmodel both run through it.\n\n```bash\ncd ~/.claude/skills/3dicon\npip install -r requirements.txt\ncp .env.example .env\n```\n\nPut your key in `.env`:\n\n```\nOPENROUTER_API_KEY=sk-or-...\n```\n\nGet one at [openrouter.ai/keys](https://openrouter.ai/keys).\n\n`ffmpeg` must be on PATH. The first run downloads a ~180MB matting model.\n\n## Use\n\nAsk for it in plain words:\n\n> make an animated 3d fire icon using /3dicon\n\nIt generates one still, shows it, and waits for you to approve it before\nspending anything on motion. Then it proposes the motion and waits again.\n\n#"
     }
   ]
 }
