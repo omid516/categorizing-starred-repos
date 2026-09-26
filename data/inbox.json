@@ -2930,6 +2930,116 @@
       "topics": [],
       "stars": 384,
       "readme_snippet": "# /3dicon\n\n**One prompt in, a looping animated 3D icon out** (with real transparency) an animated WebP you can drop straight into your app UI.\n\n<p align=\"center\">\n  <img src=\"skills/3dicon/examples/banner.webp\" width=\"820\" alt=\"eight icons looping around the /3dicon wordmark\">\n</p>\n\n\n\n## Install\n\n```\n/plugin marketplace add samyost1/3dicon\n/plugin install 3dicon\n```\n\nOne OpenRouter key covers the whole pipeline — the image model and the video\nmodel both run through it.\n\n```bash\ncd ~/.claude/skills/3dicon\npip install -r requirements.txt\ncp .env.example .env\n```\n\nPut your key in `.env`:\n\n```\nOPENROUTER_API_KEY=sk-or-...\n```\n\nGet one at [openrouter.ai/keys](https://openrouter.ai/keys).\n\n`ffmpeg` must be on PATH. The first run downloads a ~180MB matting model.\n\n## Use\n\nAsk for it in plain words:\n\n> make an animated 3d fire icon using /3dicon\n\nIt generates one still, shows it, and waits for you to approve it before\nspending anything on motion. Then it proposes the motion and waits again.\n\n#"
+    },
+    {
+      "id": 770153867,
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "topics": [
+        "ai-video-generator",
+        "content-creation",
+        "ffmpeg",
+        "instagram-reels",
+        "llm",
+        "python",
+        "short-video",
+        "subtitles",
+        "text-to-speech",
+        "tiktok",
+        "video-automation",
+        "video-workflow",
+        "workflow-automation",
+        "youtube-shorts"
+      ],
+      "stars": 125893,
+      "readme_snippet": "<div align=\"center\">\n\n# MoneyPrinterTurbo 💸\n\n### 一站式 AI 短视频生成工具\n\n只需提供视频<b>主题</b>或<b>关键词</b>，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。\n\n[![Version](https://img.shields.io/github/v/release/harry0703/MoneyPrinterTurbo?color=blue&label=version)](https://github.com/harry0703/MoneyPrinterTurbo/releases)\n[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest)\n[![Python](https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)\n[![Downloads](https://img.shields.io/github/downloads/harry0703/MoneyPrinterTurbo/total)](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest)\n\n<a href=\"https://trendshift.io/repositories/8731\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/8731\" alt=\"harry0703%2FMoneyPrinterTurbo | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n<a href=\"https://www.star-"
+    },
+    {
+      "id": 1374419657,
+      "repo": "TypeLLM/TypeLLM",
+      "url": "https://github.com/TypeLLM/TypeLLM",
+      "description": "TypeLLM: LLMs with type-safe generation",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "jev",
+        "llms",
+        "types"
+      ],
+      "stars": 635,
+      "readme_snippet": "<div align=\"center\">\n\n<img width=\"1500\" alt=\"typellm-banner\" src=\"https://github.com/user-attachments/assets/b1f2dbc6-21b7-4222-a0fb-dacfe1650797\" />\n\n# TypeLLM: LLMs with type-safe generation\n\n<h4 align=\"center\">\n  <a href=\"https://typellm.ai/\">Homepage</a>&nbsp; • &nbsp;\n  <a href=\"https://typellm.ai/blog\">Blog</a>&nbsp; • &nbsp;\n  <a href=\"https://typellm.ai/docs\">Docs</a>&nbsp; • &nbsp;\n  <a href=\"https://typellm.ai/early-access\">Early Access</a>&nbsp; • &nbsp;\n  <a href=\"https://typellm.ai/contact\">Contact</a>&nbsp;\n</h4>\n</div>\n\n## Updates\n\n- **[2026/09/24]** Added [image input](#image-input) for vision-language models, tested with Qwen3.8-27B.\n- **[2026/09/23]** Added [JevBench results](https://github.com/TypeLLM/TypeLLM/blob/main/evals/jevbench/README.md): TypeLLM scored 195/231 without thinking and 228/231 with thinking.\n- **[2026/09/23]** Added [permutation averaging](#per-question-permutation-averaging) to improve the predictive distribution. See the [blog post](https://type"
+    },
+    {
+      "id": 837911756,
+      "repo": "feder-cr/invisible_playwright_mcp",
+      "url": "https://github.com/feder-cr/invisible_playwright_mcp",
+      "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "ai-automation",
+        "autonomous-agents",
+        "browser",
+        "claude-code-plugin",
+        "crawler",
+        "gemini-cli-extension",
+        "job-hunting",
+        "job-search",
+        "lead-generation",
+        "llm-agent",
+        "market-research",
+        "mcp-server",
+        "model-context-protocol",
+        "playwright",
+        "productivity",
+        "scraper",
+        "web-automation",
+        "web-research"
+      ],
+      "stars": 31666,
+      "readme_snippet": "<div align=\"center\">\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/feder-cr/invisible_playwright_mcp/main/assets/masks-dark.png\">\n  <img alt=\"invisible_playwright_mcp\" src=\"https://raw.githubusercontent.com/feder-cr/invisible_playwright_mcp/main/assets/masks-light.png\" width=\"150\">\n</picture>\n\n**Other AI browser agents get captchas. This one is invisible to anti-bots.**\n\n</div>\n\n---\n\n## Two ways to use this browser agent\n\n### 1. From your assistant, over MCP\n\nWindows, in PowerShell:\n\n```powershell\npowershell -ExecutionPolicy ByPass -c \"irm https://astral.sh/uv/install.ps1 | iex\"\n$env:Path = \"$env:USERPROFILE\\.local\\bin;$env:Path\"\n```\n\nLinux:\n\n```bash\ncurl -LsSf https://astral.sh/uv/install.sh | sh\nsource $HOME/.local/bin/env\n```\n\nThen install it in your assistant.\n\n**Claude Code:**\n\n```bash\nclaude plugin marketplace add feder-cr/invisible_playwright_mcp\nclaude plugin install invisible-playwright-mcp@feder-cr\n```\n\n**Codex:**\n\n```bash"
+    },
+    {
+      "id": 937970237,
+      "repo": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "topics": [
+        "auto-publish",
+        "douyin",
+        "douyin-api",
+        "electron-app",
+        "electron-react",
+        "kuaishou",
+        "kwai",
+        "published",
+        "shipinhao",
+        "tool",
+        "xiaohongshu"
+      ],
+      "stars": 26426,
+      "readme_snippet": "# [Aitoearn：OPC（一人公司）的AI内容营销智能体](https://aitoearn.ai)\n\n<a href=\"https://trendshift.io/repositories/20785\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/20785\" alt=\"yikart%2FAiToEarn | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n[![GitHub stars](https://img.shields.io/github/stars/yikart/AiToEarn?color=fa6470)](https://github.com/yikart/AiToEarn/stargazers)\n[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![Required Node.JS 20.18.x](https://img.shields.io/static/v1?label=node&message=20.18.x&logo=node.js&color=3f893e)](https://nodejs.org/about/releases)\n\n简体中文 | [English](README_EN.md) | [日本語](README_JA.md)\n\n**Monetize · Publish · Engage · Create —— 一站式平台。**\n\nAiToEarn 通过 **AI Agent自动化**，帮助 OPC（一人公司）、创作者、品牌与企业在全球主流平台上构建、分发并变现内容。\n\n支持渠道：\n抖音、小红书（Rednote）、快手、哔哩哔哩、视频号、公众号、TikTok、YouTube、Facebook、Instagram、Threads、Twitter（X）、Pinterest、LinkedIn\n\n## 特别感谢 ❤️\n\n<table align=\"center\">\n  <tr>\n    <td align=\"cen"
+    },
+    {
+      "id": 876286167,
+      "repo": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "topics": [
+        "assistant",
+        "learning",
+        "note-taking",
+        "notebook",
+        "notes-app",
+        "self-learning"
+      ],
+      "stars": 39508,
+      "readme_snippet": "<a id=\"readme-top\"></a>\n\n<!-- [![Contributors][contributors-shield]][contributors-url] -->\n[![Forks][forks-shield]][forks-url]\n[![Stargazers][stars-shield]][stars-url]\n[![Issues][issues-shield]][issues-url]\n[![MIT License][license-shield]][license-url]\n<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->\n\n\n<!-- PROJECT LOGO -->\n<br />\n<div align=\"center\">\n  <a href=\"https://github.com/lfnovo/open-notebook\">\n    <img src=\"docs/assets/hero.svg\" alt=\"Logo\">\n  </a>\n\n  <h3 align=\"center\">Open Notebook</h3>\n\n  <p align=\"center\">\n    An open source, privacy-focused alternative to Google's Notebook LM!\n    <br /><strong>Join our <a href=\"https://discord.gg/37XJPXfz2w\">Discord server</a> for help, to share workflow ideas, and suggest features!</strong>\n    <br />\n    <a href=\"https://www.open-notebook.ai\"><strong>Checkout our website »</strong></a>\n    <br />\n    Follow <a href=\"https://x.com/lfnovo\">@lfnovo on X</a> for updates\n    <br />\n    <br />\n    <a href=\"docs/0-START-HERE/index.md\">📚 "
     }
   ]
 }
