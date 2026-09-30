@@ -3040,6 +3040,59 @@
       ],
       "stars": 39508,
       "readme_snippet": "<a id=\"readme-top\"></a>\n\n<!-- [![Contributors][contributors-shield]][contributors-url] -->\n[![Forks][forks-shield]][forks-url]\n[![Stargazers][stars-shield]][stars-url]\n[![Issues][issues-shield]][issues-url]\n[![MIT License][license-shield]][license-url]\n<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->\n\n\n<!-- PROJECT LOGO -->\n<br />\n<div align=\"center\">\n  <a href=\"https://github.com/lfnovo/open-notebook\">\n    <img src=\"docs/assets/hero.svg\" alt=\"Logo\">\n  </a>\n\n  <h3 align=\"center\">Open Notebook</h3>\n\n  <p align=\"center\">\n    An open source, privacy-focused alternative to Google's Notebook LM!\n    <br /><strong>Join our <a href=\"https://discord.gg/37XJPXfz2w\">Discord server</a> for help, to share workflow ideas, and suggest features!</strong>\n    <br />\n    <a href=\"https://www.open-notebook.ai\"><strong>Checkout our website »</strong></a>\n    <br />\n    Follow <a href=\"https://x.com/lfnovo\">@lfnovo on X</a> for updates\n    <br />\n    <br />\n    <a href=\"docs/0-START-HERE/index.md\">📚 "
+    },
+    {
+      "id": 920995232,
+      "repo": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audio-generation",
+        "deep-learning",
+        "foundation-models",
+        "gpt",
+        "huggingface",
+        "llama",
+        "llms",
+        "music-generation",
+        "style-transfers",
+        "voice-cloning"
+      ],
+      "stars": 10599,
+      "readme_snippet": "> Looking for the original YuE? Its code, documentation, and license are preserved on the **[YuE-v1 branch](https://github.com/multimodal-art-projection/YuE/tree/YuE-v1)**.\n\n<p align=\"center\">\n  <img src=\"assets/logo.png\" alt=\"YuE\" width=\"150\" />\n</p>\n\n<p align=\"center\">\n  <picture>\n    <source media=\"(max-width: 600px)\" srcset=\"assets/institutions-mobile.svg\" />\n    <img src=\"assets/institutions.svg\" alt=\"HKUST, M·A·P, Tokenwave.AI, NYU, Stanford, MBZUAI, NOIZ, and ACE Studio\" width=\"760\" />\n  </picture>\n</p>\n\n<h1 align=\"center\">YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality</h1>\n\n<p align=\"center\"><strong>Compose in symbols. Create in sound.</strong></p>\n\n<p align=\"center\">\n  <a href=\"https://arxiv.org/abs/2609.33757\">📄 arXiv</a> ·\n  <a href=\"docs/technical_report.pdf\">PDF</a> ·\n  <a href=\"https://map-yue2.github.io/\">🎧 Demos</a> ·\n  <a href=\"https://yue.noizai.net/\">🚀 Try online (free)</a> ·\n  <a href=\"https://arena.3-148-255-99.sslip.io:8080\">🗳️ Music Arena<"
+    },
+    {
+      "id": 1206390571,
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "tauri",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "stars": 48452,
+      "readme_snippet": "<div align=\"center\">\n  <img src=\"docs/logo.png\" alt=\"VoiceStudio\" width=\"88\" />\n  <h1>VoiceStudio</h1>\n  <p>\n    <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Trendshift\" width=\"220\" height=\"48\" /></a>\n  </p>\n  <p><strong>Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.</strong></p>\n  <p>\n    <a href=\"https://voicestudio.sh/?utm_source=github&utm_medium=readme&utm_campaign=project\">Website</a> ·\n    <a href=\"https://github.com/debpalash/VoiceStudio/releases/latest\">Download</a> ·\n    <a href=\"#get-started\">Get started</a> ·\n    <a href=\"#documentation\">Docs</a> ·\n    <a href=\"https://discord.gg/bzQavDfVV9\">Discord</a> ·\n    <a href=\"README_CN.md\">简体中文</a>\n  </p>\n  <p>\n    <a href=\"https://githu"
     }
   ]
 }
