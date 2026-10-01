@@ -3093,6 +3093,16 @@
       ],
       "stars": 48452,
       "readme_snippet": "<div align=\"center\">\n  <img src=\"docs/logo.png\" alt=\"VoiceStudio\" width=\"88\" />\n  <h1>VoiceStudio</h1>\n  <p>\n    <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Trendshift\" width=\"220\" height=\"48\" /></a>\n  </p>\n  <p><strong>Open-source voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.</strong></p>\n  <p>\n    <a href=\"https://voicestudio.sh/?utm_source=github&utm_medium=readme&utm_campaign=project\">Website</a> ·\n    <a href=\"https://github.com/debpalash/VoiceStudio/releases/latest\">Download</a> ·\n    <a href=\"#get-started\">Get started</a> ·\n    <a href=\"#documentation\">Docs</a> ·\n    <a href=\"https://discord.gg/bzQavDfVV9\">Discord</a> ·\n    <a href=\"README_CN.md\">简体中文</a>\n  </p>\n  <p>\n    <a href=\"https://githu"
+    },
+    {
+      "id": 1381359908,
+      "repo": "darrenli6/jev-recruitment",
+      "url": "https://github.com/darrenli6/jev-recruitment",
+      "description": "Jev-powered resume screening tool built on Next.js. Define job requirements, upload resumes in bulk, and get structured match/no-match judgments — every conclusion traceable back to the original resume text.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 5,
+      "readme_snippet": "# Jev-Dalun · Resume Screening Workbench\n\n[中文文档](./README-zh.md)\n\nAI-powered resume screening tool built on Next.js 15. Define job requirements, upload resumes in bulk, and get structured match/no-match judgments — every conclusion traceable back to the original resume text.\n\n![Job Setup and Hero](./public/sample/1.png)\n\n---\n\n## Features\n\n- **3-step workflow** — Configure position → Upload resumes → Review results\n- **Structured requirements** — Separate required conditions from bonus items; required conditions determine match/no-match, bonus points affect ranking only\n- **Batch screening** — Upload multiple PDFs or a ZIP archive; results stream in live as each resume is processed\n- **4 result lanes** — Recommended Match / Not Qualified / Needs Review / Processing Failed\n- **Full traceability** — Click any resume card to see per-condition judgments with source evidence quoted from the resume\n- **Chinese / English UI** — Switch languages via the top nav button; URL-based locale (`/zh`, "
     }
   ]
 }
