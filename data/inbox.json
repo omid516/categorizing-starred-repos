@@ -3103,6 +3103,37 @@
       "topics": [],
       "stars": 5,
       "readme_snippet": "# Jev-Dalun · Resume Screening Workbench\n\n[中文文档](./README-zh.md)\n\nAI-powered resume screening tool built on Next.js 15. Define job requirements, upload resumes in bulk, and get structured match/no-match judgments — every conclusion traceable back to the original resume text.\n\n![Job Setup and Hero](./public/sample/1.png)\n\n---\n\n## Features\n\n- **3-step workflow** — Configure position → Upload resumes → Review results\n- **Structured requirements** — Separate required conditions from bonus items; required conditions determine match/no-match, bonus points affect ranking only\n- **Batch screening** — Upload multiple PDFs or a ZIP archive; results stream in live as each resume is processed\n- **4 result lanes** — Recommended Match / Not Qualified / Needs Review / Processing Failed\n- **Full traceability** — Click any resume card to see per-condition judgments with source evidence quoted from the resume\n- **Chinese / English UI** — Switch languages via the top nav button; URL-based locale (`/zh`, "
+    },
+    {
+      "id": 645381450,
+      "repo": "Anil-matcha/open-dots",
+      "url": "https://github.com/Anil-matcha/open-dots",
+      "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.",
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "ai-assistant",
+        "ai-workspace",
+        "approval-workflows",
+        "chatgpt-agent",
+        "claude-cowork",
+        "computer-use",
+        "computer-use-agent",
+        "grok-bot",
+        "instinct",
+        "manus-cue",
+        "meta-muse",
+        "open-source",
+        "open-source-alternative",
+        "openai-dots",
+        "openclaw",
+        "personal-ai-agent",
+        "self-hosted",
+        "self-hosted-ai"
+      ],
+      "stars": 5133,
+      "readme_snippet": "# Open Dots: Open-Source Personal AI Agent Workspace\n\n\n<p align=\"center\">\n  <video src=\"https://github.com/Anil-matcha/open-dots/raw/main/assets/open-dots-demo.mp4\" poster=\"assets/open-dots-demo-poster.png\" controls muted width=\"800\"></video>\n</p>\n\n<p align=\"center\"><a href=\"https://youtu.be/VQWoi9nlUtU\"><img src=\"https://i.ytimg.com/vi/VQWoi9nlUtU/maxresdefault.jpg\" width=\"720\"></a></p>\n<p align=\"center\"><a href=\"https://youtu.be/VQWoi9nlUtU\"><b>▶ Watch: OpenAI Dots Alternative: Free, Open Source & Any Model </b></a></p>\n\n**Open Dots is an open-source, self-hosted personal AI agent workspace** for chat, tool use, approvals, connectors, and computer tasks. It brings model conversations, a governed action gateway, approval prompts, and an optional browser runtime into one local-first app. It can be evaluated by people searching for open-source alternatives to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, or ChatGPT agent; it is an early prototype, not a feature-e"
     }
   ]
 }
