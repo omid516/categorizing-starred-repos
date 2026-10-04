@@ -3134,6 +3134,24 @@
       ],
       "stars": 5133,
       "readme_snippet": "# Open Dots: Open-Source Personal AI Agent Workspace\n\n\n<p align=\"center\">\n  <video src=\"https://github.com/Anil-matcha/open-dots/raw/main/assets/open-dots-demo.mp4\" poster=\"assets/open-dots-demo-poster.png\" controls muted width=\"800\"></video>\n</p>\n\n<p align=\"center\"><a href=\"https://youtu.be/VQWoi9nlUtU\"><img src=\"https://i.ytimg.com/vi/VQWoi9nlUtU/maxresdefault.jpg\" width=\"720\"></a></p>\n<p align=\"center\"><a href=\"https://youtu.be/VQWoi9nlUtU\"><b>▶ Watch: OpenAI Dots Alternative: Free, Open Source & Any Model </b></a></p>\n\n**Open Dots is an open-source, self-hosted personal AI agent workspace** for chat, tool use, approvals, connectors, and computer tasks. It brings model conversations, a governed action gateway, approval prompts, and an optional browser runtime into one local-first app. It can be evaluated by people searching for open-source alternatives to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, or ChatGPT agent; it is an early prototype, not a feature-e"
+    },
+    {
+      "id": 1402361182,
+      "repo": "sepehr071/snapp-mcp",
+      "url": "https://github.com/sepehr071/snapp-mcp",
+      "description": "Unofficial read-only MCP server for Snappfood & SnappMarket: search food and groceries, compare prices, find deals.",
+      "language": "Python",
+      "topics": [
+        "iran",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "python",
+        "snappfood",
+        "snappmarket"
+      ],
+      "stars": 14,
+      "readme_snippet": "<!-- mcp-name: io.github.sepehr071/snapp-mcp -->\n\n<div align=\"center\">\n\n# 🍕 snapp-mcp\n\n**Let your AI agent shop around on Snappfood and SnappMarket.**<br>\nSearch dishes and groceries, compare real prices across hundreds of restaurants and stores,<br>\nread menus and reviews, and catch today's flash deals, all from Claude, Cursor or Copilot.\n\n[![PyPI](https://img.shields.io/pypi/v/snapp-mcp?color=2563eb)](https://pypi.org/project/snapp-mcp/)\n[![Python](https://img.shields.io/pypi/pyversions/snapp-mcp)](https://pypi.org/project/snapp-mcp/)\n[![CI](https://github.com/sepehr071/snapp-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/sepehr071/snapp-mcp/actions/workflows/ci.yml)\n[![MCP Registry](https://img.shields.io/badge/MCP_Registry-io.github.sepehr071%2Fsnapp--mcp-7c3aed)](https://registry.modelcontextprotocol.io/v0/servers?search=snapp-mcp)\n[![License: MIT](https://img.shields.io/badge/license-MIT-16a34a)](https://github.com/sepehr071/snapp-mcp/blob/main/LICENSE)\n\n[![Install i"
     }
   ]
 }
