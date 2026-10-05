@@ -3152,6 +3152,52 @@
       ],
       "stars": 14,
       "readme_snippet": "<!-- mcp-name: io.github.sepehr071/snapp-mcp -->\n\n<div align=\"center\">\n\n# 🍕 snapp-mcp\n\n**Let your AI agent shop around on Snappfood and SnappMarket.**<br>\nSearch dishes and groceries, compare real prices across hundreds of restaurants and stores,<br>\nread menus and reviews, and catch today's flash deals, all from Claude, Cursor or Copilot.\n\n[![PyPI](https://img.shields.io/pypi/v/snapp-mcp?color=2563eb)](https://pypi.org/project/snapp-mcp/)\n[![Python](https://img.shields.io/pypi/pyversions/snapp-mcp)](https://pypi.org/project/snapp-mcp/)\n[![CI](https://github.com/sepehr071/snapp-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/sepehr071/snapp-mcp/actions/workflows/ci.yml)\n[![MCP Registry](https://img.shields.io/badge/MCP_Registry-io.github.sepehr071%2Fsnapp--mcp-7c3aed)](https://registry.modelcontextprotocol.io/v0/servers?search=snapp-mcp)\n[![License: MIT](https://img.shields.io/badge/license-MIT-16a34a)](https://github.com/sepehr071/snapp-mcp/blob/main/LICENSE)\n\n[![Install i"
+    },
+    {
+      "id": 1075372545,
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 156724,
+      "readme_snippet": "# 🎭 The Agency: AI Specialists Ready to Transform Your Workflow\n\n> **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\n[![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)](https://github.com/msitarzewski/agency-agents)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)\n[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/msitarzewski)\n[![Download the app](https://img.shields.io/github/v/release/msitarzewski/agency-agents-app?label=Download%20app&color=2563eb)](https://github.com/msitarzewski/agency-agents-app/releases/latest)\n\n> ### 🆕 There's an app now\n>\n> **"
+    },
+    {
+      "id": 1393574754,
+      "repo": "NexusGuide/FleetPanel",
+      "url": "https://github.com/NexusGuide/FleetPanel",
+      "description": "Secure control panel for hosting many Telegram bots (MirzaBot, Faoxima) on one Ubuntu/Debian server: isolation, SSL, backups, web panel and CLI.",
+      "language": "TypeScript",
+      "topics": [
+        "control-panel",
+        "mirzabot",
+        "nginx",
+        "self-hosted",
+        "telegram-bot"
+      ],
+      "stars": 4,
+      "readme_snippet": "<div align=\"center\">\n\n# FleetPanel\n\n### A secure control plane for hosting many Telegram bots on one Linux server\n\nDeploy and run isolated **MirzaBot**, **Faoxima** and **PasarguardBot** instances on a single Ubuntu/Debian\nVPS: each bot gets its own Linux user, MySQL database, nginx site and Let's Encrypt certificate (plus a\nPHP-FPM pool, or a sandboxed systemd service with its own Redis for Python bots), managed from a web panel\nand a CLI.\n\n[![CI](https://github.com/NexusGuide/FleetPanel/actions/workflows/ci.yml/badge.svg)](https://github.com/NexusGuide/FleetPanel/actions/workflows/ci.yml)\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)\n[![Platform: Ubuntu | Debian](https://img.shields.io/badge/Platform-Ubuntu%20%7C%20Debian-orange?style=flat-square&logo=ubuntu)](docs/installation.md)\n[![Security: Argon2id + AES-256-GCM](https://img.shields.io/badge/Security-Argon2id%20%2B%20AES--256--GCM-red?style=flat-square)](SECURITY.md)\n[![Node.js 2"
+    },
+    {
+      "id": 1344207942,
+      "repo": "alizn7/GeminiRoute",
+      "url": "https://github.com/alizn7/GeminiRoute",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stars": 22,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"https://raw.githubusercontent.com/alizn7/GeminiRoute/main/docs/banner.svg\" alt=\"GeminiRoute\" width=\"100%\">\n\n[![verified routes](https://img.shields.io/endpoint?url=https://alizn7.github.io/GeminiRoute/api/badge.json)](https://alizn7.github.io/GeminiRoute/sub/best.txt)\n[![exit countries](https://img.shields.io/endpoint?url=https://alizn7.github.io/GeminiRoute/api/badge-countries.json)](https://alizn7.github.io/GeminiRoute/)\n[![verified of tested](https://img.shields.io/endpoint?url=https://alizn7.github.io/GeminiRoute/api/badge-success.json)](https://alizn7.github.io/GeminiRoute/api/stats.json)\n[![rebuilt hourly](https://img.shields.io/github/actions/workflow/status/alizn7/GeminiRoute/discovery.yml?style=flat-square&label=rebuilt%20hourly&labelColor=1f2d3a)](https://github.com/alizn7/GeminiRoute/actions)\n[![license](https://img.shields.io/badge/license-MIT-1f2d3a?style=flat-square)](LICENSE)\n\n[English](README.md) &nbsp;·&nbsp; [فارسی](README.fa.md)\n\n### A"
+    },
+    {
+      "id": 1403325014,
+      "repo": "MatinSenPai/Gemini-Config-Checker",
+      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "language": "Go",
+      "topics": [],
+      "stars": 69,
+      "readme_snippet": "<p align=\"center\"><img src=\"assets/banner.png\" alt=\"Gemini/Check\" width=\"100%\"></p>\n\n<p align=\"center\">\n  <b>English</b> · <a href=\"README.fa.md\">فارسی</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"../../releases\"><img alt=\"Release\" src=\"https://img.shields.io/github/v/release/MatinSenPai/Gemini-Config-Checker?include_prereleases&label=release\"></a>\n  <a href=\"../../releases\"><img alt=\"Downloads\" src=\"https://img.shields.io/github/downloads/MatinSenPai/Gemini-Config-Checker/total?label=downloads&color=ee2b38\"></a>\n  <a href=\"../../actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/MatinSenPai/Gemini-Config-Checker/actions/workflows/ci.yml/badge.svg\"></a>\n  <a href=\"LICENSE\"><img alt=\"License\" src=\"https://img.shields.io/badge/license-MIT-111\"></a>\n  <img alt=\"Platforms\" src=\"https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Android-111\">\n</p>\n\n# Gemini Config Checker\n\nFind proxy configs that actually get you into **Google AI Studio and Gemini**, "
     }
   ]
 }
