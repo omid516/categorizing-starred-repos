@@ -3229,6 +3229,16 @@
       ],
       "stars": 3712,
       "readme_snippet": "<div align=\"center\">\n\n<img src=\"NotchBuddy/Assets.xcassets/AppIcon.appiconset/icon_256x256.png\" width=\"96\" alt=\"Coucou icon\">\n\n# Coucou\n\n**A tiny friend that lives in your Mac's notch — or at the top of your screen on Windows and Linux — and keeps an eye on your AI coding agent sessions. And now on your iPhone too.**\n\nApprove permissions, watch your agents work, drop a file, chat with Claude — all without leaving what you're doing. Walk away from your Mac and Mochi follows you to your iPhone: Lock Screen, Dynamic Island, widgets, Siri.\n\n[![Version](https://img.shields.io/github/v/release/Louis-CFM/coucou?filter=v*&label=version&color=0A84FF)](https://github.com/Louis-CFM/coucou/releases)\n![macOS 15+](https://img.shields.io/badge/macOS-15%2B-black?logo=apple)\n![iOS 18+](https://img.shields.io/badge/iOS-18%2B-black?logo=apple)\n![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-0078D4?logo=windows&logoColor=white)\n![Linux](https://img.shields.io/badge/Linux-AppImage%20%7C%20deb"
+    },
+    {
+      "id": 1152201703,
+      "repo": "mohammadim48/capjs-local-persian",
+      "url": "https://github.com/mohammadim48/capjs-local-persian",
+      "description": "Fork of cap.js with CDN removed and WASM assets self-hosted for restricted networks",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 9,
+      "readme_snippet": "<div align=\"center\">\n\n# Cap Local Persian Pro\n\n**A Persian CAPTCHA widget for the modern web, with locally hosted assets.**\n\n[![npm version](https://img.shields.io/npm/v/capjs-local-persian-pro?style=flat-square&color=2563eb)](https://www.npmjs.com/package/capjs-local-persian-pro)\n[![License](https://img.shields.io/badge/license-Apache--2.0-16a34a?style=flat-square)](./LICENSE)\n[![JavaScript](https://img.shields.io/badge/JavaScript-Web%20Component-f7df1e?style=flat-square)](https://github.com/mohammadim48/capjs-local-persian)\n\nPersian UI & RTL · SHA-256 Proof of Work · WebAssembly · Web Workers\n\n[npm](https://www.npmjs.com/package/capjs-local-persian-pro) · [GitHub](https://github.com/mohammadim48/capjs-local-persian) · [Report an issue](https://github.com/mohammadim48/capjs-local-persian/issues)\n\n</div>\n\n---\n\n## Overview\n\n`capjs-local-persian-pro` is a fork of the [Cap](https://github.com/tiagozip/cap) client widget, adapted for Persian interfaces and local asset hosting. Instead of a"
     }
   ]
 }
