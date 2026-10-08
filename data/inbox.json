@@ -3239,6 +3239,16 @@
       "topics": [],
       "stars": 9,
       "readme_snippet": "<div align=\"center\">\n\n# Cap Local Persian Pro\n\n**A Persian CAPTCHA widget for the modern web, with locally hosted assets.**\n\n[![npm version](https://img.shields.io/npm/v/capjs-local-persian-pro?style=flat-square&color=2563eb)](https://www.npmjs.com/package/capjs-local-persian-pro)\n[![License](https://img.shields.io/badge/license-Apache--2.0-16a34a?style=flat-square)](./LICENSE)\n[![JavaScript](https://img.shields.io/badge/JavaScript-Web%20Component-f7df1e?style=flat-square)](https://github.com/mohammadim48/capjs-local-persian)\n\nPersian UI & RTL · SHA-256 Proof of Work · WebAssembly · Web Workers\n\n[npm](https://www.npmjs.com/package/capjs-local-persian-pro) · [GitHub](https://github.com/mohammadim48/capjs-local-persian) · [Report an issue](https://github.com/mohammadim48/capjs-local-persian/issues)\n\n</div>\n\n---\n\n## Overview\n\n`capjs-local-persian-pro` is a fork of the [Cap](https://github.com/tiagozip/cap) client widget, adapted for Persian interfaces and local asset hosting. Instead of a"
+    },
+    {
+      "id": 1406381096,
+      "repo": "erfjab/CoBox",
+      "url": "https://github.com/erfjab/CoBox",
+      "description": "",
+      "language": "Rust",
+      "topics": [],
+      "stars": 16,
+      "readme_snippet": "<p align=\"center\"><img src=\"assets/logo.svg\" width=\"96\" alt=\"CoBox logo\"></p>\n\n# CoBox\n\nA small, keyboard-first clipboard history for Windows.\n\n- Saves everything you copy: text, code, links, images, videos, PDFs, audio and files.\n- Keeps your history until you delete it.\n- Runs in the background and starts with Windows.\n- Uses almost no CPU while idle.\n\n## Install\n\nWindows (PowerShell):\n\n```powershell\nirm https://raw.githubusercontent.com/erfjab/CoBox/master/install.ps1 | iex\n```\n\nmacOS and Linux:\n\n```sh\ncurl -fsSL https://raw.githubusercontent.com/erfjab/CoBox/master/install.sh | sh\n```\n\nThe same command installs CoBox the first time and updates it later. It only replaces\nthe program: your history and settings are never touched. If the download fails, the\ninstalled version is left as it was.\n\n## Build from source\n\n### Requirements\n\n- Windows 10 or 11\n- [Rust](https://rustup.rs) with the MSVC toolchain\n- Windows 10/11 SDK (install it with the Visual Studio Build Tools)\n\n### Build and "
     }
   ]
 }
