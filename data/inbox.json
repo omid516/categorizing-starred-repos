@@ -3249,6 +3249,52 @@
       "topics": [],
       "stars": 16,
       "readme_snippet": "<p align=\"center\"><img src=\"assets/logo.svg\" width=\"96\" alt=\"CoBox logo\"></p>\n\n# CoBox\n\nA small, keyboard-first clipboard history for Windows.\n\n- Saves everything you copy: text, code, links, images, videos, PDFs, audio and files.\n- Keeps your history until you delete it.\n- Runs in the background and starts with Windows.\n- Uses almost no CPU while idle.\n\n## Install\n\nWindows (PowerShell):\n\n```powershell\nirm https://raw.githubusercontent.com/erfjab/CoBox/master/install.ps1 | iex\n```\n\nmacOS and Linux:\n\n```sh\ncurl -fsSL https://raw.githubusercontent.com/erfjab/CoBox/master/install.sh | sh\n```\n\nThe same command installs CoBox the first time and updates it later. It only replaces\nthe program: your history and settings are never touched. If the download fails, the\ninstalled version is left as it was.\n\n## Build from source\n\n### Requirements\n\n- Windows 10 or 11\n- [Rust](https://rustup.rs) with the MSVC toolchain\n- Windows 10/11 SDK (install it with the Visual Studio Build Tools)\n\n### Build and "
+    },
+    {
+      "id": 1086419061,
+      "repo": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai-memory",
+        "memory"
+      ],
+      "stars": 47366,
+      "readme_snippet": "<div align=\"center\">\n\n![Hindsight Banner](./hindsight-docs/static/img/hindsight-github-banner.png)\n\n[Documentation](https://hindsight.vectorize.io) • [Integrations](https://hindsight.vectorize.io/integrations) • [Cookbook](https://hindsight.vectorize.io/cookbook) • [Benchmarks](https://benchmarks.hindsight.vectorize.io/) • [Paper](https://arxiv.org/abs/2512.12818) • [Hindsight Cloud](https://ui.hindsight.vectorize.io)\n\n[![Release](https://github.com/vectorize-io/hindsight/actions/workflows/release.yml/badge.svg)](https://github.com/vectorize-io/hindsight/actions/workflows/release.yml)\n[![Version](https://img.shields.io/pypi/v/hindsight-api?logo=python&logoColor=white&label=version&color=blue)](https://pypi.org/project/hindsight-api/)\n[![PyPI Downloads](https://img.shields.io/pypi/dm/hindsight-client?logo=pypi&logoColor=white&label=PyPI&color=blue)](https://pypi.org/project/hindsight-client/)\n[![NPM Downloads](https://img.shields.io/npm/dm/%40vectorize-io%2Fhindsight-client?logo=npm&log"
+    },
+    {
+      "id": 1209966933,
+      "repo": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis",
+        "claude-code",
+        "cli",
+        "codex",
+        "cordis",
+        "ctf",
+        "decompiler",
+        "developer-tools",
+        "disassembler",
+        "dsh",
+        "dsh-plugin",
+        "ghidra",
+        "hopper",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "reverse-engineering",
+        "static-analysis"
+      ],
+      "stars": 29058,
+      "readme_snippet": "<div align=\"center\">\n\n**English** · [简体中文](README_zh.md) · [繁體中文](README_zh-TW.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Türkçe](README_tr.md) · [Русский](README_ru.md) · [Tiếng Việt](README_vi.md) · [ไทย](README_th.md) · [Deutsch](README_de.md) · [Español](README_es.md) · [Français](README_fr.md) · [Українська](README_uk.md) · [Polski](README_pl.md) · [Português (Brasil)](README_pt-BR.md) · [العربية](README_ar.md) · [فارسی](README_fa.md)\n\n# REA: Reverse Engineer Anything\n\n### One MCP for reverse engineering across binaries, applications, and runtime behavior.\n\n**See a feature you like. Understand how it works, down to the binary level.**\n\n[![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents)\n[![CI](https://img.shields.io/github/actions/workflow/status/morluto/rea/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/morluto/rea/actions/workflows/ci.yml)\n[![MCP tool catalog](https://img.s"
     }
   ]
 }
