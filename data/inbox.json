@@ -3318,6 +3318,78 @@
       ],
       "stars": 36228,
       "readme_snippet": "<p align=\"center\">\n  <a href=\"https://getartcraft.com/\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/artcraft-logo-white.svg\">\n      <img alt=\"ArtCraft\" src=\"docs/brand/artcraft-logo.svg\" width=\"200\">\n    </picture>\n  </a>\n</p>\n\n<h1 align=\"center\">PhotoCraft</h1>\n\n<p align=\"center\">\n  <b>Image editing; an open-source, clean-room reimplementation of Adobe Photoshop, rebuilt in pure Rust.</b><br>\n  Layers, masks, adjustment layers, layer styles, type, vectors, brushes and real PSD files,<br>\n  in a native app written entirely in Rust. Open source, offline, and yours.\n</p>\n\n<p align=\"center\">\n  <img alt=\"100% Rust\" src=\"https://img.shields.io/badge/100%25-Rust-b7410e?style=flat-square&logo=rust\">\n  <img alt=\"macOS · Windows · Linux · FreeBSD · Web\" src=\"https://img.shields.io/badge/macOS%20%C2%B7%20Windows%20%C2%B7%20Linux%20%C2%B7%20FreeBSD%20%C2%B7%20Web-native-2f7bf5?style=flat-square\">\n  <img alt=\"License: MIT OR Apache-2.0\" src=\"https://img.shi"
+    },
+    {
+      "id": 1144520675,
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "topics": [],
+      "stars": 59381,
+      "readme_snippet": "<div align=\"center\">\n\n<h1>\n  <picture>\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/free-claude-code-wordmark-light.svg\">\n    <img src=\"assets/free-claude-code-wordmark-dark.svg\" alt=\"Free Claude Code\" width=\"610\">\n  </picture>\n</h1>\n\n[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-2e7d32.svg?style=for-the-badge)](https://github.com/Alishahryar1/free-claude-code/blob/main/LICENSE)\n[![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)\n[![Package Manager: uv](assets/package-manager-uv.svg)](https://github.com/astral-sh/uv)\n[![Testing: Pytest](https://img.shields.io/badge/Testing-Pytest-ad1457.svg?style=for-the-badge)](https://github.com/Alishahryar1/free-claude-code/actions/workflows/tests.yml)\n[![Type Checker: Ty](https://img.shields.io/badge/Type%20Checker-ty-fdd835.svg?style=for-the-badge)](https://pypi.org/project/ty/)\n[![Formatter: Ruff](https://im"
+    },
+    {
+      "id": 1371757322,
+      "repo": "CopilotKit/openmuse",
+      "url": "https://github.com/CopilotKit/openmuse",
+      "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 4790,
+      "readme_snippet": "  <div align=\"center\">\n\n# OpenMuse\n\n**A personal agent with a browser, terminal, files, and work that keeps going. Compatible with any agent harness.**\n\nAsk for an outcome. Follow the plan, review actions, and come back to the result.\nBuilt with CopilotKit React Native for iOS, Android, and web.\n\n[Quick start](#quick-start) · [Demo](#demo) · [Features](#features) · [Architecture](#architecture) · [Docs](docs/README.md) · [Contributing](CONTRIBUTING.md)\n\n[![CI](https://github.com/CopilotKit/OpenMuse/actions/workflows/ci.yml/badge.svg)](https://github.com/CopilotKit/OpenMuse/actions/workflows/ci.yml)\n[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n\n<a href=\"https://trendshift.io/repositories/254992?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-254992\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/254992/daily?language=TypeScript\" alt=\"CopilotKit%2Fopenmuse | Tre"
+    },
+    {
+      "id": 511987144,
+      "repo": "imputnet/cobalt",
+      "url": "https://github.com/imputnet/cobalt",
+      "description": "best way to save what you love",
+      "language": "Svelte",
+      "topics": [
+        "collaboration",
+        "downloader",
+        "instagram",
+        "javascript",
+        "music",
+        "reddit",
+        "social-media",
+        "soundcloud",
+        "svelte",
+        "tiktok",
+        "twitter",
+        "typescript",
+        "video",
+        "vimeo",
+        "vk",
+        "webapp",
+        "youtube",
+        "youtube-downloader"
+      ],
+      "stars": 44917,
+      "readme_snippet": "<div align=\"center\">\n    <br/>\n    <p>\n        <img src=\"web/static/favicon.png\" title=\"cobalt\" alt=\"cobalt logo\" width=\"100\" />\n    </p>\n    <p>\n        best way to save what you love\n        <br/>\n        <a href=\"https://cobalt.tools\">\n            cobalt.tools\n        </a>\n    </p>\n    <p>\n        <a href=\"https://discord.gg/pQPt8HBUPu\">\n            💬 community discord server\n        </a>\n        <br/>\n        <a href=\"https://x.com/justusecobalt\">\n            🐦 twitter\n        </a>\n        <a href=\"https://bsky.app/profile/cobalt.tools\">\n            🦋 bluesky\n        </a>\n    </p>\n    <br/>\n</div>\n\ncobalt is a media downloader that doesn't piss you off. it's friendly, efficient, and doesn't have ads, trackers, paywalls or other nonsense.\n\npaste the link, get the file, move on. that simple, just how it should be.\n\n### cobalt monorepo\nthis monorepo includes source code for api, frontend, and related packages:\n- [api tree & readme](/api/)\n- [web tree & readme](/web/)\n- [packages tree]"
+    },
+    {
+      "id": 1330867309,
+      "repo": "shadcn-labs/pdfcn",
+      "url": "https://github.com/shadcn-labs/pdfcn",
+      "description": "Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.",
+      "language": "TypeScript",
+      "topics": [
+        "forme",
+        "html-to-pdf",
+        "jsx",
+        "pdf",
+        "pdf-generation",
+        "pdf-generator",
+        "react",
+        "rust",
+        "shadcn",
+        "takumi",
+        "typescript",
+        "wasm"
+      ],
+      "stars": 2917,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"./.github/assets/gh.png\" alt=\"pdfcn banner\" />\n</p>\n\n<h1 align=\"center\">pdfcn</h1>\n\n<p align=\"center\">\n  Free & open-source, ready-to-use, customizable PDF components for React.<br/>\n  Copy, paste, and ship. Built on <a href=\"https://takumi.kane.tw/docs/pdf\">Takumi</a> and <a href=\"https://docs.formepdf.com\">Forme</a>, works seamlessly with <a href=\"https://ui.shadcn.com/\">shadcn/ui</a>.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/shadcn-labs/pdfcn\"><img src=\"https://www.shieldcn.dev/github/stars/shadcn-labs/pdfcn.svg?variant=secondary&size=xs&theme=zinc\" alt=\"GitHub Stars\" /></a>\n  <a href=\"https://github.com/shadcn-labs/pdfcn/actions\"><img src=\"https://www.shieldcn.dev/github/ci/shadcn-labs/pdfcn.svg?variant=secondary&size=xs&theme=zinc\" alt=\"CI\" /></a>\n  <a href=\"https://discord.gg/N6G36KhYK4\"><img src=\"https://www.shieldcn.dev/discord/online-members/N6G36KhYK4.svg?variant=secondary&size=xs&theme=zinc\" alt=\"Discord Members\" /></a>\n  <a href="
     }
   ]
 }
