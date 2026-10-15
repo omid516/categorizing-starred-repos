@@ -3390,6 +3390,28 @@
       ],
       "stars": 2917,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"./.github/assets/gh.png\" alt=\"pdfcn banner\" />\n</p>\n\n<h1 align=\"center\">pdfcn</h1>\n\n<p align=\"center\">\n  Free & open-source, ready-to-use, customizable PDF components for React.<br/>\n  Copy, paste, and ship. Built on <a href=\"https://takumi.kane.tw/docs/pdf\">Takumi</a> and <a href=\"https://docs.formepdf.com\">Forme</a>, works seamlessly with <a href=\"https://ui.shadcn.com/\">shadcn/ui</a>.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/shadcn-labs/pdfcn\"><img src=\"https://www.shieldcn.dev/github/stars/shadcn-labs/pdfcn.svg?variant=secondary&size=xs&theme=zinc\" alt=\"GitHub Stars\" /></a>\n  <a href=\"https://github.com/shadcn-labs/pdfcn/actions\"><img src=\"https://www.shieldcn.dev/github/ci/shadcn-labs/pdfcn.svg?variant=secondary&size=xs&theme=zinc\" alt=\"CI\" /></a>\n  <a href=\"https://discord.gg/N6G36KhYK4\"><img src=\"https://www.shieldcn.dev/discord/online-members/N6G36KhYK4.svg?variant=secondary&size=xs&theme=zinc\" alt=\"Discord Members\" /></a>\n  <a href="
+    },
+    {
+      "id": 1162099055,
+      "repo": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "anti-slop",
+        "claude-code",
+        "codex",
+        "cursor",
+        "design-system",
+        "frontend",
+        "landing-page",
+        "ui-design",
+        "web-design"
+      ],
+      "stars": 96516,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/readme-banner.webp\" alt=\"Taste Skill - Anti-slop Agent Skills for premium frontends\" width=\"100%\" />\n</p>\n\n<p align=\"center\" style=\"margin-bottom: 8px;\">\n  <a href=\"https://tasteskill.dev\" title=\"Visit tasteskill.dev\"><img src=\"https://img.shields.io/badge/website-tasteskill.dev-24292f?style=flat\" alt=\"Visit tasteskill.dev\" /></a>\n  &nbsp;\n  <a href=\"https://tastecode.dev\" title=\"Visit tastecode.dev\"><img src=\"https://img.shields.io/badge/new-TasteCode-ff6b00?style=flat\" alt=\"New: TasteCode\" /></a>\n  &nbsp;\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-24292f?style=flat&amp;logo=github&amp;logoColor=white\" alt=\"MIT License\" /></a>\n  &nbsp;\n  <a href=\"https://github.com/vercel-labs/agent-skills\"><img src=\"https://img.shields.io/badge/Agent_Skills-compatible-24292f?style=flat&amp;logo=github&amp;logoColor=white\" alt=\"Agent Skills compatible\" /></a>\n  &nbsp;\n  <a href=\"#install\"><img src=\"https://img.shields.io/badge/Codex_%2F"
     }
   ]
 }
