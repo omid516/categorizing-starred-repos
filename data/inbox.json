@@ -3412,6 +3412,16 @@
       ],
       "stars": 96516,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/readme-banner.webp\" alt=\"Taste Skill - Anti-slop Agent Skills for premium frontends\" width=\"100%\" />\n</p>\n\n<p align=\"center\" style=\"margin-bottom: 8px;\">\n  <a href=\"https://tasteskill.dev\" title=\"Visit tasteskill.dev\"><img src=\"https://img.shields.io/badge/website-tasteskill.dev-24292f?style=flat\" alt=\"Visit tasteskill.dev\" /></a>\n  &nbsp;\n  <a href=\"https://tastecode.dev\" title=\"Visit tastecode.dev\"><img src=\"https://img.shields.io/badge/new-TasteCode-ff6b00?style=flat\" alt=\"New: TasteCode\" /></a>\n  &nbsp;\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-24292f?style=flat&amp;logo=github&amp;logoColor=white\" alt=\"MIT License\" /></a>\n  &nbsp;\n  <a href=\"https://github.com/vercel-labs/agent-skills\"><img src=\"https://img.shields.io/badge/Agent_Skills-compatible-24292f?style=flat&amp;logo=github&amp;logoColor=white\" alt=\"Agent Skills compatible\" /></a>\n  &nbsp;\n  <a href=\"#install\"><img src=\"https://img.shields.io/badge/Codex_%2F"
+    },
+    {
+      "id": 1348882002,
+      "repo": "homomorphicprivacy/StarkLLM",
+      "url": "https://github.com/homomorphicprivacy/StarkLLM",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stars": 7,
+      "readme_snippet": "# StarkLLM (Windows Research Beta)\n\n**Version:** StarkLLM v1.0.0-beta  \n**License:** Apache 2.0 (Open Source)  \n**Package SHA-256:** `15aa772d586946af5213dd9a0f74bcf725f87cd15502d23e48cfc8d1e128fb43`\n\n**StarkLLM** is a private, local-first AI assistant designed for Windows developers, researchers, and technical users. It is **completely free** and **open source** under Apache 2.0. It features an integrated Retrieval-Augmented Generation (RAG) engine, allowing you to chat with your local documents, organize workflows into Workspaces, and maintain a global Knowledge Base—all running entirely on your own hardware.\n\nBy leveraging Docker Desktop and Ollama, StarkLLM enforces a strict zero-cloud architecture. Your files and chats never leave your machine.\n\n---\n\n## Requirements\n\nTo run StarkLLM smoothly, you need:\n- **OS**: Windows 10/11 (with WSL2 enabled)\n- **Software**: \n  - **Docker Desktop** (running and configured for WSL2)\n  - **Ollama** (installed natively on your Windows host from [o"
     }
   ]
 }
