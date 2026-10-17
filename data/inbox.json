@@ -3422,6 +3422,16 @@
       "topics": [],
       "stars": 7,
       "readme_snippet": "# StarkLLM (Windows Research Beta)\n\n**Version:** StarkLLM v1.0.0-beta  \n**License:** Apache 2.0 (Open Source)  \n**Package SHA-256:** `15aa772d586946af5213dd9a0f74bcf725f87cd15502d23e48cfc8d1e128fb43`\n\n**StarkLLM** is a private, local-first AI assistant designed for Windows developers, researchers, and technical users. It is **completely free** and **open source** under Apache 2.0. It features an integrated Retrieval-Augmented Generation (RAG) engine, allowing you to chat with your local documents, organize workflows into Workspaces, and maintain a global Knowledge Base—all running entirely on your own hardware.\n\nBy leveraging Docker Desktop and Ollama, StarkLLM enforces a strict zero-cloud architecture. Your files and chats never leave your machine.\n\n---\n\n## Requirements\n\nTo run StarkLLM smoothly, you need:\n- **OS**: Windows 10/11 (with WSL2 enabled)\n- **Software**: \n  - **Docker Desktop** (running and configured for WSL2)\n  - **Ollama** (installed natively on your Windows host from [o"
+    },
+    {
+      "id": 1286080397,
+      "repo": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "topics": [],
+      "stars": 42441,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/colibri-logo.svg\" width=\"560\" alt=\"colibrì: tiny engine, immense model\">\n</p>\n\n<p align=\"center\">\n  <a href=\"https://justvugg.github.io/colibri\"><img src=\"https://img.shields.io/badge/website-justvugg.github.io%2Fcolibri-1f6feb\" alt=\"Website\"></a>\n  <a href=\"https://github.com/JustVugg/colibri/releases\"><img src=\"https://img.shields.io/github/v/release/JustVugg/colibri?color=2ea043\" alt=\"Latest release\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://justvugg.github.io/colibri\"><b>Website</b></a> ·\n  <a href=\"https://discord.gg/RXV83nSZdk\"><b>Discord</b></a> ·\n  English · <a href=\"README.zh-CN.md\">简体中文</a> · <a href=\"README.zh-TW.md\">繁體中文</a> · <a href=\"README.it.md\">Italiano</a> · <a href=\"README.ja.md\">日本語</a> · <a href=\"README.id.md\">Bahasa Indonesia</a>\n</p>\n\n**Tiny engine, immense model.** colibri runs very large open models on the\nmachine you already have. A mixture-of-experts model of hundreds of billions of\nparameters uses only a small par"
     }
   ]
 }
