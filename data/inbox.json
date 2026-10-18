@@ -3432,6 +3432,23 @@
       "topics": [],
       "stars": 42441,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/colibri-logo.svg\" width=\"560\" alt=\"colibrì: tiny engine, immense model\">\n</p>\n\n<p align=\"center\">\n  <a href=\"https://justvugg.github.io/colibri\"><img src=\"https://img.shields.io/badge/website-justvugg.github.io%2Fcolibri-1f6feb\" alt=\"Website\"></a>\n  <a href=\"https://github.com/JustVugg/colibri/releases\"><img src=\"https://img.shields.io/github/v/release/JustVugg/colibri?color=2ea043\" alt=\"Latest release\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://justvugg.github.io/colibri\"><b>Website</b></a> ·\n  <a href=\"https://discord.gg/RXV83nSZdk\"><b>Discord</b></a> ·\n  English · <a href=\"README.zh-CN.md\">简体中文</a> · <a href=\"README.zh-TW.md\">繁體中文</a> · <a href=\"README.it.md\">Italiano</a> · <a href=\"README.ja.md\">日本語</a> · <a href=\"README.id.md\">Bahasa Indonesia</a>\n</p>\n\n**Tiny engine, immense model.** colibri runs very large open models on the\nmachine you already have. A mixture-of-experts model of hundreds of billions of\nparameters uses only a small par"
+    },
+    {
+      "id": 1377453242,
+      "repo": "mahdyarmonfared/cleandrop",
+      "url": "https://github.com/mahdyarmonfared/cleandrop",
+      "description": "⚡ Smart, safe, and lightning-fast downloads & desktop auto-organizer CLI with dry-run and undo support.",
+      "language": "JavaScript",
+      "topics": [
+        "cli",
+        "desktop-automation",
+        "developer-tools",
+        "file-organizer",
+        "nodejs",
+        "zero-dependency"
+      ],
+      "stars": 7,
+      "readme_snippet": "<div align=\"center\">\n\n# 📦 CleanDrop\n\n**Smart, safe, and lightning-fast downloads & desktop auto-organizer CLI.**\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)\n[![Node.js Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen.svg)](https://nodejs.org)\n[![CI Status](https://github.com/mahdyarmonfared/cleandrop/actions/workflows/ci.yml/badge.svg)](https://github.com/mahdyarmonfared/cleandrop/actions)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com)\n\n\n</div>\n\n---\n\n## 🧐 Why CleanDrop?\n\nIs your `Downloads` or `Desktop` folder flooded with hundreds of unorganized screenshots, random PDFs, installation `.deb`/`.exe` packages, and zip files?\n\nCleaning it manually is tedious and time-consuming. **CleanDrop** reorganizes messy directories in seconds, safely placing files into categorized subfolders based on their extensions.\n\n```\nMessy Folder:                              CleanD"
     }
   ]
 }
