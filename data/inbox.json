@@ -3449,6 +3449,37 @@
       ],
       "stars": 7,
       "readme_snippet": "<div align=\"center\">\n\n# 📦 CleanDrop\n\n**Smart, safe, and lightning-fast downloads & desktop auto-organizer CLI.**\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)\n[![Node.js Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen.svg)](https://nodejs.org)\n[![CI Status](https://github.com/mahdyarmonfared/cleandrop/actions/workflows/ci.yml/badge.svg)](https://github.com/mahdyarmonfared/cleandrop/actions)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com)\n\n\n</div>\n\n---\n\n## 🧐 Why CleanDrop?\n\nIs your `Downloads` or `Desktop` folder flooded with hundreds of unorganized screenshots, random PDFs, installation `.deb`/`.exe` packages, and zip files?\n\nCleaning it manually is tedious and time-consuming. **CleanDrop** reorganizes messy directories in seconds, safely placing files into categorized subfolders based on their extensions.\n\n```\nMessy Folder:                              CleanD"
+    },
+    {
+      "id": 1125258937,
+      "repo": "urzeye/ophel",
+      "url": "https://github.com/urzeye/ophel",
+      "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+      "language": "TypeScript",
+      "topics": [
+        "ai-assistant",
+        "ai-chat",
+        "ai-studio",
+        "ai-workflow",
+        "browser-extension",
+        "chatgpt",
+        "chrome-extension",
+        "claude",
+        "deepseek-harness",
+        "gemini",
+        "grok",
+        "hotswap",
+        "long-conversation",
+        "minimap",
+        "outline",
+        "plugin",
+        "productivity",
+        "prompt",
+        "prompt-management",
+        "timeline"
+      ],
+      "stars": 986,
+      "readme_snippet": "# Ophel Atlas 🚀\n\n> Turn AI chats into documents you can read, navigate, and reuse\n\n<sub>Language: <strong>English</strong> | <a href=\"./README_zh-CN.md\">简体中文</a></sub>\n\n<div align=\"center\">\n  <img src=\"./assets/icon.png\" width=\"120\" height=\"120\" alt=\"Ophel Logo\"/>\n\n  <h3 style=\"margin-top: -2px;\">✨ Turn Conversations into Knowledge, Not Just History ✨</h3>\n  \n  <p>\n    No more getting lost in endless scroll. Clarify context with real-time Outlines, Build your system with Chat Folders, Refine experience with the Prompt Library, Let sparkling thoughts flow freely in order.\n  </p>\n  \n  <sub>👇 Demo: From \"Infinite Scroll\" to \"Navigable AI Documents\"</sub>\n  \n  <img width=\"1200\" height=\"675\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3e15e094-4085-4532-9bd7-7ec3f1ca525e\" />\n  \n  <p>\n    <strong><em>Making AI chat a truly organizeable workflow for the first time</em></strong><br/>\n  </p>\n\n  <small style=\"opacity: 0.6;\">\n  No matter which of these platforms you use, Ophel let"
     }
   ]
 }
