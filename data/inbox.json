@@ -3497,6 +3497,30 @@
       ],
       "stars": 15,
       "readme_snippet": "# رو به رو\n\n<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"frontend/public/logo-light.svg\" />\n    <img src=\"frontend/public/logo.svg\" alt=\"رو به رو\" width=\"88\" />\n  </picture>\n</p>\n\n<p align=\"center\">\n  A Persian video-meeting experience designed for natural, focused conversations.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://roobro.ir\">Website</a> ·\n  <a href=\"#local-development\">Local development</a> ·\n  <a href=\"#docker-server-deployment\">Deploy</a> ·\n  <a href=\"#api\">API</a> ·\n  <a href=\"docs/deployment.md\">Deployment guide</a> ·\n  <a href=\"docs/seo.md\">Search and social previews</a>\n</p>\n\n![رو به رو — هر جا که هستید، رو‌به‌رو باشید](frontend/public/og.png)\n\n## About\n\nرو به رو makes it simple to create and join browser-based video meetings with a human-friendly share code. The interface is Persian and RTL, and realtime credentials stay behind a Go API.\n\nThe app can also run in an interactive demo mode, so the full meeting flow remains explora"
+    },
+    {
+      "id": 1116853782,
+      "repo": "tawroot/antigravity-cleaner",
+      "url": "https://github.com/tawroot/antigravity-cleaner",
+      "description": "⚡ Bypass Google Sanctions, Region Lock & 403/429 Errors in Antigravity IDE & 2.x. Zero-TUN SOCKS5 Smart Injector, Doctor & Surgical Quota Reset.",
+      "language": "HTML",
+      "topics": [
+        "403-forbidden",
+        "anti-censorship",
+        "antigravity-ide",
+        "china",
+        "clash",
+        "developer-tools",
+        "gemini-code-assist",
+        "google-antigravity",
+        "iran",
+        "region-lock",
+        "russia",
+        "sanctions-bypass",
+        "v2ray"
+      ],
+      "stars": 218,
+      "readme_snippet": "<p align=\"center\">\n  <a href=\"README.md\">🇺🇸 English</a> •\n  <a href=\"README.fa.md\">🇮🇷 فارسی</a> •\n  <a href=\"README.ar.md\">🇸🇦 العربية</a> •\n  <a href=\"README.ru.md\">🇷🇺 Русский</a> •\n  <a href=\"README.es.md\">🇪🇸 Español</a> •\n  <a href=\"README.tr.md\">🇹🇷 Türkçe</a> •\n  <a href=\"README.zh.md\">🇨🇳 简体中文</a> •\n  <a href=\"README.ur.md\">🇵🇰 اردو</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/images/logo.png\" alt=\"Antigravity Cleaner Logo\" width=\"115\">\n</p>\n\n<h1 align=\"center\">⚡ Antigravity Cleaner Pro (v5.4.0)</h1>\n\n<p align=\"center\">\n  <strong>Autonomous Sanction Bypass, Zero-Telemetry Engine & Direct No-TUN Proxy Injector for Google Antigravity</strong>\n</p>\n\n<div align=\"center\">\n\n  [![Release](https://img.shields.io/badge/Release-v5.4.0-0078D6?style=for-the-badge)](https://github.com/tawroot/antigravity-cleaner/releases)\n  [![Downloads](https://img.shields.io/github/downloads/tawroot/antigravity-cleaner/total?style=for-the-badge&logo=github&color=0078D6&label=Downloads)](https://github.com/tawr"
     }
   ]
 }
