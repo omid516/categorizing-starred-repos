@@ -3521,6 +3521,16 @@
       ],
       "stars": 218,
       "readme_snippet": "<p align=\"center\">\n  <a href=\"README.md\">🇺🇸 English</a> •\n  <a href=\"README.fa.md\">🇮🇷 فارسی</a> •\n  <a href=\"README.ar.md\">🇸🇦 العربية</a> •\n  <a href=\"README.ru.md\">🇷🇺 Русский</a> •\n  <a href=\"README.es.md\">🇪🇸 Español</a> •\n  <a href=\"README.tr.md\">🇹🇷 Türkçe</a> •\n  <a href=\"README.zh.md\">🇨🇳 简体中文</a> •\n  <a href=\"README.ur.md\">🇵🇰 اردو</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/images/logo.png\" alt=\"Antigravity Cleaner Logo\" width=\"115\">\n</p>\n\n<h1 align=\"center\">⚡ Antigravity Cleaner Pro (v5.4.0)</h1>\n\n<p align=\"center\">\n  <strong>Autonomous Sanction Bypass, Zero-Telemetry Engine & Direct No-TUN Proxy Injector for Google Antigravity</strong>\n</p>\n\n<div align=\"center\">\n\n  [![Release](https://img.shields.io/badge/Release-v5.4.0-0078D6?style=for-the-badge)](https://github.com/tawroot/antigravity-cleaner/releases)\n  [![Downloads](https://img.shields.io/github/downloads/tawroot/antigravity-cleaner/total?style=for-the-badge&logo=github&color=0078D6&label=Downloads)](https://github.com/tawr"
+    },
+    {
+      "id": 1434017230,
+      "repo": "Motionsites-AI/claude-skill",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "language": "Python",
+      "topics": [],
+      "stars": 539,
+      "readme_snippet": "# MotionSites Web Builder: a free Claude skill\n\n**Make Claude build award-level, cinematic landing pages instead of average AI layouts.**\n\nAI-built websites tend to look the same for three reasons: a vague plan, no real media, and nobody looking at the result. This skill fixes all three. Claude studies the most-liked designs from [MotionSites](https://motionsites.ai/?utm_source=github&utm_medium=claude-skill&utm_campaign=web-builder), picks real cinematic media, writes a precise build spec, builds the page, then **screenshots its own work and fixes it** until it clears a gallery-level bar.\n\n![Example designs from the skill, each next to the hero video it is built on](preview-media.jpg)\n<sub>8 of the 40 example designs inside the skill, each shown next to the video it's built on. All 50+ videos are on the skill's media shelf.</sub>\n\n## What's inside\n- **40 example prompts:** the most-liked free prompts on MotionSites, the designs people actually love. Claude reads the closest 2–3 for ev"
     }
   ]
 }
