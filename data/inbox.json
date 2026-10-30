@@ -3531,6 +3531,16 @@
       "topics": [],
       "stars": 539,
       "readme_snippet": "# MotionSites Web Builder: a free Claude skill\n\n**Make Claude build award-level, cinematic landing pages instead of average AI layouts.**\n\nAI-built websites tend to look the same for three reasons: a vague plan, no real media, and nobody looking at the result. This skill fixes all three. Claude studies the most-liked designs from [MotionSites](https://motionsites.ai/?utm_source=github&utm_medium=claude-skill&utm_campaign=web-builder), picks real cinematic media, writes a precise build spec, builds the page, then **screenshots its own work and fixes it** until it clears a gallery-level bar.\n\n![Example designs from the skill, each next to the hero video it is built on](preview-media.jpg)\n<sub>8 of the 40 example designs inside the skill, each shown next to the video it's built on. All 50+ videos are on the skill's media shelf.</sub>\n\n## What's inside\n- **40 example prompts:** the most-liked free prompts on MotionSites, the designs people actually love. Claude reads the closest 2–3 for ev"
+    },
+    {
+      "id": 1438227134,
+      "repo": "pedramgholizadeh/curated-skills",
+      "url": "https://github.com/pedramgholizadeh/curated-skills",
+      "description": "A curated collection of AI agent skills, tools, and workflows I personally use and recommend. Open source, practical, and continuously evolving.",
+      "language": "Python",
+      "topics": [],
+      "stars": 21,
+      "readme_snippet": "# 🧰 Curated Skills\n\n> A hand-picked, production-grade collection of AI agent skills — organized by\n> domain, written in the open `SKILL.md` standard, and usable everywhere.\n\n[![🌐 Live site](https://img.shields.io/badge/🌐_Live_site-skill_tree-brightgreen)](https://pedramgholizadeh.github.io/curated-skills/)\n[![🐙 GitHub](https://img.shields.io/badge/🐙_GitHub-repository-24292e)](https://github.com/pedramgholizadeh/curated-skills)\n[![✨ Follow the author](https://img.shields.io/badge/✨_author-pedramgholizadeh.ir-55e6a5)](https://pedramgholizadeh.ir)\n\n👋 Hi, I'm **Pedram Gholizadeh** — a software developer and SEO specialist\n([pedramgholizadeh.ir](https://pedramgholizadeh.ir)). I've been building\nproducts, bots, agents and search-optimized websites for years, and this\nrepository is where I curate the skills I actually use in real work.\n\nMy hope is simple: if these skills make my agents better, they can make yours\nbetter too. May this collection help everyone use AI agents **more effectively\na"
     }
   ]
 }
