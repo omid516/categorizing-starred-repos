@@ -3541,6 +3541,16 @@
       "topics": [],
       "stars": 21,
       "readme_snippet": "# 🧰 Curated Skills\n\n> A hand-picked, production-grade collection of AI agent skills — organized by\n> domain, written in the open `SKILL.md` standard, and usable everywhere.\n\n[![🌐 Live site](https://img.shields.io/badge/🌐_Live_site-skill_tree-brightgreen)](https://pedramgholizadeh.github.io/curated-skills/)\n[![🐙 GitHub](https://img.shields.io/badge/🐙_GitHub-repository-24292e)](https://github.com/pedramgholizadeh/curated-skills)\n[![✨ Follow the author](https://img.shields.io/badge/✨_author-pedramgholizadeh.ir-55e6a5)](https://pedramgholizadeh.ir)\n\n👋 Hi, I'm **Pedram Gholizadeh** — a software developer and SEO specialist\n([pedramgholizadeh.ir](https://pedramgholizadeh.ir)). I've been building\nproducts, bots, agents and search-optimized websites for years, and this\nrepository is where I curate the skills I actually use in real work.\n\nMy hope is simple: if these skills make my agents better, they can make yours\nbetter too. May this collection help everyone use AI agents **more effectively\na"
+    },
+    {
+      "id": 1434852229,
+      "repo": "Sepantapouya/Kashi",
+      "url": "https://github.com/Sepantapouya/Kashi",
+      "description": "",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 22,
+      "readme_snippet": "# کاشی (Kashi)\n\n**مستندات و نمونه‌ها: [kashi.sepantapouya.com](https://kashi.sepantapouya.com)**\n\n[![CI](https://github.com/Sepantapouya/Kashi/actions/workflows/ci.yml/badge.svg)](https://github.com/Sepantapouya/Kashi/actions/workflows/ci.yml)\n\nدیزاین‌سیستم فارسی و متن‌باز — **RTL-first**، **Dark-first**، **دسترس‌پذیر** و **کاملاً قابل‌سفارشی‌سازی**، برای React و هر فریم‌ورک دیگری. با الهام از Untitled UI.\n\n| پکیج | کاربرد |\n|---|---|\n| `@kashi-ui/tokens` | رنگ، فاصله، فونت و… به شکل CSS Variables، JSON و JS |\n| `@kashi-ui/css` | استایل کامپوننت‌ها با CSS خالص — برای هر فریم‌ورکی |\n| `@kashi-ui/persian` | تاریخ شمسی، ارقام فارسی، اعتبارسنجی کد ملی و کارت؛ بدون وابستگی |\n| `@kashi-ui/bank-logos` | لوگوی SVG ۴۰ بانک و ۱۰ درگاه پرداخت ایران (CC0) |\n| `@kashi-ui/icons` | ۲۳۹۹ آیکون کاشی در شش سبک؛ React، SVG و اسپرایت |\n| `@kashi-ui/react` | کامپوننت‌های React |\n\n## کامپوننت‌ها\n\nButton · Input · Textarea · Select · Checkbox · RadioGroup · Switch · Badge · Card · Alert · Avatar · AvatarGrou"
     }
   ]
 }
