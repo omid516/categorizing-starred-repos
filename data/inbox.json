@@ -3551,6 +3551,66 @@
       "topics": [],
       "stars": 22,
       "readme_snippet": "# کاشی (Kashi)\n\n**مستندات و نمونه‌ها: [kashi.sepantapouya.com](https://kashi.sepantapouya.com)**\n\n[![CI](https://github.com/Sepantapouya/Kashi/actions/workflows/ci.yml/badge.svg)](https://github.com/Sepantapouya/Kashi/actions/workflows/ci.yml)\n\nدیزاین‌سیستم فارسی و متن‌باز — **RTL-first**، **Dark-first**، **دسترس‌پذیر** و **کاملاً قابل‌سفارشی‌سازی**، برای React و هر فریم‌ورک دیگری. با الهام از Untitled UI.\n\n| پکیج | کاربرد |\n|---|---|\n| `@kashi-ui/tokens` | رنگ، فاصله، فونت و… به شکل CSS Variables، JSON و JS |\n| `@kashi-ui/css` | استایل کامپوننت‌ها با CSS خالص — برای هر فریم‌ورکی |\n| `@kashi-ui/persian` | تاریخ شمسی، ارقام فارسی، اعتبارسنجی کد ملی و کارت؛ بدون وابستگی |\n| `@kashi-ui/bank-logos` | لوگوی SVG ۴۰ بانک و ۱۰ درگاه پرداخت ایران (CC0) |\n| `@kashi-ui/icons` | ۲۳۹۹ آیکون کاشی در شش سبک؛ React، SVG و اسپرایت |\n| `@kashi-ui/react` | کامپوننت‌های React |\n\n## کامپوننت‌ها\n\nButton · Input · Textarea · Select · Checkbox · RadioGroup · Switch · Badge · Card · Alert · Avatar · AvatarGrou"
+    },
+    {
+      "id": 1440913751,
+      "repo": "sepehr071/codal-mcp",
+      "url": "https://github.com/sepehr071/codal-mcp",
+      "description": "Unofficial read-only MCP server for Codal (codal.ir), the disclosure system of Iranian listed companies: search filings, read financial statements, EPS and monthly activity reports as tables, meeting decisions, PDF and Excel links. Tehran Stock Exchange and Fara Bourse. For Claude, Cursor and Copilot. کدال",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "bourse",
+        "claude",
+        "claude-code",
+        "codal",
+        "codal-ir",
+        "cursor",
+        "disclosures",
+        "finance",
+        "financial-statements",
+        "github-copilot",
+        "iran",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "persian",
+        "python",
+        "tehran-stock-exchange",
+        "uvx"
+      ],
+      "stars": 4,
+      "readme_snippet": "<!-- mcp-name: io.github.sepehr071/codal-mcp -->\n\n<div align=\"center\">\n\n<img src=\"https://raw.githubusercontent.com/sepehr071/codal-mcp/main/.github/banner.png\" alt=\"codal-mcp: unofficial Codal (کدال) MCP server that reads Iranian listed companies' disclosures and financial statements for Claude, Cursor and Copilot\" width=\"100%\">\n\n# codal-mcp: Codal (کدال) disclosure and financial statement MCP server for AI agents\n\n**codal-mcp lets an AI agent search and read Codal, the official disclosure system of Iranian listed companies.**<br>\nCodal (codal.ir, سامانه جامع اطلاع‌رسانی ناشران) is where companies and funds on the Tehran Stock Exchange, Iran Fara Bourse<br>\nand the other Iranian exchanges publish financial statements, monthly activity reports, meeting decisions and material news.<br>\ncodal-mcp is an unofficial, read-only MCP server with 5 tools that turns those letters into text and tables for Claude, Cursor or Copilot.\n\n[![PyPI](https://img.shields.io/pypi/v/codal-mcp?color=2563eb)]("
+    },
+    {
+      "id": 1414327429,
+      "repo": "sepehr071/iran-mcp",
+      "url": "https://github.com/sepehr071/iran-mcp",
+      "description": "39 MCP servers (488 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche, laws, tax, crypto, stocks, news and more. Prices in Toman.",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code-plugin",
+        "cursor",
+        "digikala",
+        "divar",
+        "farsi",
+        "iran",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "mcp-servers",
+        "model-context-protocol",
+        "persian",
+        "price-comparison",
+        "snappfood",
+        "torob",
+        "unofficial-api"
+      ],
+      "stars": 179,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"assets/banner.svg\" alt=\"iran-mcp: 40 MCP servers and 500 tools for Iranian shopping, classifieds, food, travel, health, book, course, app, price, stock, news, law, tax and crypto sites, for Claude, Cursor and Copilot\" width=\"100%\">\n\n**English** · [فارسی](README.fa.md)\n\n# Iran MCP servers: iran-mcp\n\n**Give your AI agent the Iranian web.**<br>\n36 unofficial, open-source Persian-web MCP servers for Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche, the Tehran stock exchange, Iranian crypto exchanges, the tax administration, qavanin.ir laws and more, plus official ones from ExirYab, Pasavard and SwapWallet.<br>\nSearch, compare prices in Toman, find free slots and today's deals from Claude, Cursor, GitHub Copilot in VS Code or any MCP client.<br>\nInstall them as Claude Code plugins with skills, or as Agent Skills for Codex, Cursor, Antigravity and Grok Build.\n\n[![Servers](https://img.shields.io/badge/servers-40-3fd6c9)](#the-servers)\n[!"
     }
   ]
 }
