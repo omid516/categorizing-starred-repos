@@ -3611,6 +3611,86 @@
       ],
       "stars": 179,
       "readme_snippet": "<div align=\"center\">\n\n<img src=\"assets/banner.svg\" alt=\"iran-mcp: 40 MCP servers and 500 tools for Iranian shopping, classifieds, food, travel, health, book, course, app, price, stock, news, law, tax and crypto sites, for Claude, Cursor and Copilot\" width=\"100%\">\n\n**English** · [فارسی](README.fa.md)\n\n# Iran MCP servers: iran-mcp\n\n**Give your AI agent the Iranian web.**<br>\n36 unofficial, open-source Persian-web MCP servers for Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche, the Tehran stock exchange, Iranian crypto exchanges, the tax administration, qavanin.ir laws and more, plus official ones from ExirYab, Pasavard and SwapWallet.<br>\nSearch, compare prices in Toman, find free slots and today's deals from Claude, Cursor, GitHub Copilot in VS Code or any MCP client.<br>\nInstall them as Claude Code plugins with skills, or as Agent Skills for Codex, Cursor, Antigravity and Grok Build.\n\n[![Servers](https://img.shields.io/badge/servers-40-3fd6c9)](#the-servers)\n[!"
+    },
+    {
+      "id": 951958279,
+      "repo": "chigwell/telegram-mcp",
+      "url": "https://github.com/chigwell/telegram-mcp",
+      "description": "Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.",
+      "language": "Python",
+      "topics": [
+        "admin",
+        "api",
+        "chat-management",
+        "contacts",
+        "groups",
+        "mcp",
+        "media",
+        "messaging",
+        "search",
+        "telegram",
+        "telegram-api",
+        "telegram-client",
+        "telethon"
+      ],
+      "stars": 1965,
+      "readme_snippet": "<div align=\"center\">\n  <img src=\"https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Telegram%20MCP%20Server&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&descAlignY=55&descAlign=62\" alt=\"Telegram MCP Server\" width=\"100%\" />\n</div>\n\n![MCP Badge](https://badge.mcpx.dev)\n[![License: Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-green?style=flat-square)](https://opensource.org/licenses/Apache-2.0)\n[![Python Lint & Format Check](https://github.com/chigwell/telegram-mcp/actions/workflows/python-lint-format.yml/badge.svg)](https://github.com/chigwell/telegram-mcp/actions/workflows/python-lint-format.yml)\n[![Docker Build & Compose Validation](https://github.com/chigwell/telegram-mcp/actions/workflows/docker-build.yml/badge.svg)](https://github.com/chigwell/telegram-mcp/actions/workflows/docker-build.yml)\n\nA Telegram integration for Claude, Cursor, and other MCP-compatible clients. It exposes Telegram account, chat, mess"
+    },
+    {
+      "id": 1409457137,
+      "repo": "amirparsadd/better-psp",
+      "url": "https://github.com/amirparsadd/better-psp",
+      "description": "Better UX for Iranian payment gateways: a Chrome/Firefox extension for Shaparak pages",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 16,
+      "readme_snippet": "# Better PSP\n\nBetter UX for Iranian payment gateways (PSPs). A Chrome/Firefox extension that removes the small annoyances of\npaying on Shaparak pages, and fills the numeric captcha to show that an OCR-readable number adds friction, not\nsecurity.\n\n## Repository\n\npnpm workspaces + Turborepo. Requires Node 22.18+ and pnpm.\n\n```\napps/extension     the browser extension (WXT, TypeScript, Chrome + Firefox MV3)\napps/site          landing page (Astro, Tailwind, daisyUI), deployed to GitHub Pages\napps/collector     local GUI for collecting labeled captcha samples\npackages/ocr       captcha preprocessing and solving (browser-safe), plus Node benchmark scripts\ndatasets/          labeled captchas (page snapshots are gitignored)\n```\n\n```bash\npnpm install\npnpm build        # extension for Chrome and Firefox, in apps/extension/.output\npnpm test\npnpm typecheck\npnpm dev          # Chrome with hot reload; pnpm dev:firefox for Firefox\npnpm site         # landing page at http://localhost:4321/better-psp\n`"
+    },
+    {
+      "id": 1375698116,
+      "repo": "AmirHBuilds/fuckjoin",
+      "url": "https://github.com/AmirHBuilds/fuckjoin",
+      "description": "Telegram userbot that auto-joins required channels, fetches the media for you, then leaves them after a while",
+      "language": "Python",
+      "topics": [
+        "asyncio",
+        "auto-joiner",
+        "bypass-tools",
+        "docker",
+        "docker-compose",
+        "floodwait",
+        "media-downloader",
+        "mtproto",
+        "telegram",
+        "telegram-automation-bot",
+        "telethon",
+        "userbot"
+      ],
+      "stars": 40,
+      "readme_snippet": "<div align=\"center\">\n\n# ⚡ fuckjoin\n\n### Tired of joining 10 garbage Telegram channels just to watch one video? We are too.\n\nSend any bot link. Get your video. Never join a spam channel again.\n\n[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)\n[![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)\n[![Telegram](https://img.shields.io/badge/Telethon-MTProto-blueviolet?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/LonamiWebs/Telethon)\n[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)\n\n---\n\n<!-- HERO ASSET: Recommended Size: 1280x640px or 1280x720px (Optimized GIF / WebM under 5MB) -->\n<img src=\"assets/hero-demo.gif\" alt=\"fuckjoin in action\" width=\"100%\" />\n\n</div>\n\n---\n\n## 💡 What is fuckjoin?\n\nTelegram is flooded with file lockers demanding:\n> *\"You must join Ch"
+    },
+    {
+      "id": 1357727243,
+      "repo": "KiaroSama/Telegram-mcp",
+      "url": "https://github.com/KiaroSama/Telegram-mcp",
+      "description": "Drive a real Telegram account from an MCP client: chats, messages, media, secret chats, communities, folders, admin rights, invite links and Mini Apps, with multi-account routing and an approval safeguard.",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "llm-tools",
+        "mcp",
+        "model-context-protocol",
+        "mtproto",
+        "python",
+        "tdlib",
+        "telegram",
+        "telegram-api",
+        "telethon",
+        "userbot"
+      ],
+      "stars": 31,
+      "readme_snippet": "<div align=\"center\">\n  <img src=\"https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Telegram%20MCP%20Server&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&descAlignY=55&descAlign=62\" alt=\"Telegram MCP Server\" width=\"100%\" />\n\n[![Tests](https://github.com/KiaroSama/Telegram-mcp/actions/workflows/tests.yml/badge.svg)](https://github.com/KiaroSama/Telegram-mcp/actions/workflows/tests.yml)\n[![Python Lint & Format Check](https://github.com/KiaroSama/Telegram-mcp/actions/workflows/python-lint-format.yml/badge.svg)](https://github.com/KiaroSama/Telegram-mcp/actions/workflows/python-lint-format.yml)\n[![CodeQL](https://github.com/KiaroSama/Telegram-mcp/actions/workflows/codeql.yml/badge.svg)](https://github.com/KiaroSama/Telegram-mcp/actions/workflows/codeql.yml)\n[![Licence: GPL-3.0-or-later](https://img.shields.io/badge/licence-GPL--3.0--or--later-blue?style=flat-square)](LICENSE)\n[![Version 1.0.0](https://img.shields.io/badge/version-1"
     }
   ]
 }
