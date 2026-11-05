@@ -3691,6 +3691,23 @@
       ],
       "stars": 31,
       "readme_snippet": "<div align=\"center\">\n  <img src=\"https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Telegram%20MCP%20Server&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&descAlignY=55&descAlign=62\" alt=\"Telegram MCP Server\" width=\"100%\" />\n\n[![Tests](https://github.com/KiaroSama/Telegram-mcp/actions/workflows/tests.yml/badge.svg)](https://github.com/KiaroSama/Telegram-mcp/actions/workflows/tests.yml)\n[![Python Lint & Format Check](https://github.com/KiaroSama/Telegram-mcp/actions/workflows/python-lint-format.yml/badge.svg)](https://github.com/KiaroSama/Telegram-mcp/actions/workflows/python-lint-format.yml)\n[![CodeQL](https://github.com/KiaroSama/Telegram-mcp/actions/workflows/codeql.yml/badge.svg)](https://github.com/KiaroSama/Telegram-mcp/actions/workflows/codeql.yml)\n[![Licence: GPL-3.0-or-later](https://img.shields.io/badge/licence-GPL--3.0--or--later-blue?style=flat-square)](LICENSE)\n[![Version 1.0.0](https://img.shields.io/badge/version-1"
+    },
+    {
+      "id": 1446146151,
+      "repo": "omid3098/t3code-persian-typography",
+      "url": "https://github.com/omid3098/t3code-persian-typography",
+      "description": "Vazirmatn font and smart Persian/English text direction for the T3 Code desktop app on Windows",
+      "language": "PowerShell",
+      "topics": [
+        "bidi",
+        "persian",
+        "rtl",
+        "t3code",
+        "typography",
+        "vazirmatn"
+      ],
+      "stars": 2,
+      "readme_snippet": "# T3 Code Persian Typography\n\nVazirmatn and smart Persian/English direction for the **main T3 Code desktop\napp** on Windows. The normal T3 Code shortcut gets the feature; there is no\nseparate launcher.\n\nThe runtime:\n\n- uses the vendored [Vazirmatn](https://github.com/rastikerdar/vazirmatn) font for Persian letters only, keeping your chosen UI font (including one set in T3 Code's settings) for Latin text and leaving code fonts alone;\n- makes every chat paragraph, heading, list item, table cell, folded section, user message, and the composer RTL as soon as it contains even one Persian letter, however much English it also holds;\n- keeps English text, code, paths, URLs, email addresses, and hashes LTR;\n- isolates Persian thread titles, project names, and other short labels without flipping the LTR app shell;\n- recomputes direction while responses stream and while you type.\n\n## Install\n\nRequirements:\n\n- Windows 10 or 11 (tested on Windows 11, x64).\n- [T3 Code desktop](https://github.com/pin"
     }
   ]
 }
