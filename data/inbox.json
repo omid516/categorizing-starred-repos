@@ -3708,6 +3708,36 @@
       ],
       "stars": 2,
       "readme_snippet": "# T3 Code Persian Typography\n\nVazirmatn and smart Persian/English direction for the **main T3 Code desktop\napp** on Windows. The normal T3 Code shortcut gets the feature; there is no\nseparate launcher.\n\nThe runtime:\n\n- uses the vendored [Vazirmatn](https://github.com/rastikerdar/vazirmatn) font for Persian letters only, keeping your chosen UI font (including one set in T3 Code's settings) for Latin text and leaving code fonts alone;\n- makes every chat paragraph, heading, list item, table cell, folded section, user message, and the composer RTL as soon as it contains even one Persian letter, however much English it also holds;\n- keeps English text, code, paths, URLs, email addresses, and hashes LTR;\n- isolates Persian thread titles, project names, and other short labels without flipping the LTR app shell;\n- recomputes direction while responses stream and while you type.\n\n## Install\n\nRequirements:\n\n- Windows 10 or 11 (tested on Windows 11, x64).\n- [T3 Code desktop](https://github.com/pin"
+    },
+    {
+      "id": 1445802355,
+      "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "language": "Python",
+      "topics": [],
+      "stars": 2520,
+      "readme_snippet": "========================================================================  \n  Google AI Pro (5 TB) 零成本两年 (US$0.00 -> 24个月) 全自动控制台  \n========================================================================  \n  \n\n声明：该项目并非本人开发，仅作为圈内开源供大家分析学习使用  \nDisclaimer: I did not develop this project; it is provided as an open-source resource for the community to analyze and learn from.  \n\n【一、运行环境要求】\n1. Windows 10 / 11 系统\n2. 已安装 Google Chrome 浏览器（默认路径即可）\n3. 已安装 Python 3.10 或更高版本（安装时勾选 Add Python to PATH）\n4. 网络环境：本机开启美区（US）代理，或在控制台左侧填写代理模板\n\n【二、快速启动步骤】\n1. 首次使用请双击运行：【1_首次运行_安装依赖并启动.bat】\n2. 之后日常使用直接双击：【2_启动控制台.bat】\n3. 浏览器会自动打开控制台页面：http://127.0.0.1:8765\n\n【三、自定义填写支付卡 & 跑号说明】\n1. 填写支付卡（必填）：\n   - 在网页左侧【全局配置与内联免税绑卡】区域，填入你自己的 Visa 或 Mastercard 外币卡：\n     * 卡号（16位数字）\n     * 有效期（月 / 年，如 08 / 29）\n     * 安全码（3位 CVC）\n     * 持卡人英文姓名\n     * 免税邮编默认已填好 97201（美国俄勒冈免税州），无需修改\n   - 填写后点击【💾 保存配置】。\n   - 注：脚本内置严格 0 元消费保护，仅在结账弹窗确认为 US$0.00 时才会点击订阅，全程 0 扣费。\n\n2. 批量导入 Google 账号：\n   - 在网页右侧【批量放号导入区】粘贴账号（每行一个），支持以下任意格式：\n     * 邮箱----密"
+    },
+    {
+      "id": 1411513820,
+      "repo": "moeinforoughi/iran-dev-skill",
+      "url": "https://github.com/moeinforoughi/iran-dev-skill",
+      "description": "A portable Agent Skill that helps coding agents diagnose Iranian-network failures and keep developer workflows moving with verified mirrors, reversible changes, safe connectivity troubleshooting, and offline fallbacks.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 9,
+      "readme_snippet": "# Iran Dev Environment — Agent Skill (v0.1.1)\n\nA portable Agent Skill that helps coding agents diagnose Iranian-network failures and keep developer workflows moving with verified mirrors, reversible changes, safe connectivity troubleshooting, and offline fallbacks.\n\n## What's included\n\n- `SKILL.md` — core agent behavior and routing rules.\n- `references/diagnostic-playbook.md` — DNS/TCP/TLS/HTTP/API/package failure triage.\n- `references/mirror-catalog.yaml` — candidate mirrors and their ecosystem coverage. Entries are **not assumed operational**; test them from the actual ISP/network before use.\n- `references/anti-censorship-tools.md` — tool categories, verification process, and a seed inventory based on public/community references and the initial user-provided list.\n- `references/tool-inventory.yaml` — machine-readable inventory of the 53 submitted tool/version entries, clearly marked as unverified.\n- `references/service-access.md` — provider/API availability and error classification.\n"
+    },
+    {
+      "id": 1440956372,
+      "repo": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 15627,
+      "readme_snippet": "<p align=\"center\">\n  <a href=\"https://getartcraft.com/\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/artcraft-logo-white.svg\">\n      <img alt=\"ArtCraft\" src=\"docs/brand/artcraft-logo.svg\" width=\"200\">\n    </picture>\n  </a>\n</p>\n\n<p align=\"center\">\n  <img src=\"assets/app-icon/hicolor/256x256/apps/ai.storyteller.craft-anything.png\" width=\"128\" height=\"128\" alt=\"Craft Anything icon: an engraved raven on a blue tile\">\n</p>\n\n<h1 align=\"center\">Craft Anything</h1>\n\n<p align=\"center\">\n  <b>English</b> · <a href=\"README.ja.md\">日本語</a> · <a href=\"README.zh.md\">简体中文</a> · <a href=\"README.ko.md\">한국어</a>\n</p>\n\n<p align=\"center\">\n  <b>See how any website, app or game works, then have AI build your own version; an open-source, clean-room engine in pure Rust.</b><br>\n  Point it at a target, say what you want, and it studies the original with real inspection tools,<br>\n  has a coding agent build a new project, checks the result against the original and refines i"
     }
   ]
 }
