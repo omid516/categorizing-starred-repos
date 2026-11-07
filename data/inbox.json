@@ -3738,6 +3738,66 @@
       "topics": [],
       "stars": 15627,
       "readme_snippet": "<p align=\"center\">\n  <a href=\"https://getartcraft.com/\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/artcraft-logo-white.svg\">\n      <img alt=\"ArtCraft\" src=\"docs/brand/artcraft-logo.svg\" width=\"200\">\n    </picture>\n  </a>\n</p>\n\n<p align=\"center\">\n  <img src=\"assets/app-icon/hicolor/256x256/apps/ai.storyteller.craft-anything.png\" width=\"128\" height=\"128\" alt=\"Craft Anything icon: an engraved raven on a blue tile\">\n</p>\n\n<h1 align=\"center\">Craft Anything</h1>\n\n<p align=\"center\">\n  <b>English</b> · <a href=\"README.ja.md\">日本語</a> · <a href=\"README.zh.md\">简体中文</a> · <a href=\"README.ko.md\">한국어</a>\n</p>\n\n<p align=\"center\">\n  <b>See how any website, app or game works, then have AI build your own version; an open-source, clean-room engine in pure Rust.</b><br>\n  Point it at a target, say what you want, and it studies the original with real inspection tools,<br>\n  has a coding agent build a new project, checks the result against the original and refines i"
+    },
+    {
+      "id": 1032663368,
+      "repo": "HosseinOdd/Navasan-API",
+      "url": "https://github.com/HosseinOdd/Navasan-API",
+      "description": "Free Navasan Currency & Gold Price API — Unlimited JSON API for Real-Time Iranian Exchange Rates and Precious Metals Data.",
+      "language": "Python",
+      "topics": [
+        "api",
+        "apinavasan",
+        "currency-api",
+        "exchange-rates",
+        "freeapi",
+        "goldprice",
+        "json-api",
+        "navasan",
+        "navasanapi",
+        "priceapi",
+        "python-api",
+        "webservice"
+      ],
+      "stars": 17,
+      "readme_snippet": "# Navasan Data Scraper\n\nA lightweight Python tool for fetching the latest **currency** and **gold** rates from [Navasan.net](https://www.navasan.net).\n\nThe project uses **Selenium** and **HTTP requests** to securely retrieve data and keeps it automatically updated via **GitHub Actions**.\n\n---\n\n## Automated Updates\n\nData is refreshed **every 30 minutes** using GitHub Actions, without requiring any paid service.\n\n**Live JSON data:**\n- Fiat currencies: [`data/fiat.json`](./data/fiat.json)\n- Gold and coin rates: [`data/gold.json`](./data/gold.json)\n\n---\n\n## Features\n\n- Headless Chrome automation with Selenium  \n- Secure session handling via `PHPSESSID`\n- Dynamic CSRF token generation\n- Fetches:\n  - Fiat currency rates\n  - Gold and coin prices\n- Stores results as structured JSON\n- Fully automated updates via GitHub Actions\n\n---\n\n## Project Structure\n\n```\n.\n├── .github/\n│   └── workflows/\n│       └── update-data.yml\n├── data/\n│   ├── fiat.json\n│   └── gold.json\n├── src/\n│   └── app.py\n├── re"
+    },
+    {
+      "id": 792413584,
+      "repo": "amiryxe/next-persian-fonts",
+      "url": "https://github.com/amiryxe/next-persian-fonts",
+      "description": "Persian fonts package for Next.js",
+      "language": "TypeScript",
+      "topics": [
+        "font",
+        "nextjs",
+        "persian"
+      ],
+      "stars": 38,
+      "readme_snippet": "<p align=\"center\">\n  <a href=\"https://amiryxe.github.io/next-persian-fonts/\"><img src=\"https://raw.githubusercontent.com/amiryxe/next-persian-fonts/main/.github/assets/banner.png\" alt=\"next-persian-fonts: فونت‌های فارسی برای Next.js\" width=\"100%\"></a>\n</p>\n\n<h1 align=\"center\">next-persian-fonts</h1>\n\n<p align=\"center\">\n  <a href=\"https://www.npmjs.com/package/next-persian-fonts\"><img src=\"https://img.shields.io/npm/v/next-persian-fonts?color=10b981&label=npm\" alt=\"npm version\"></a>\n  <a href=\"https://www.npmjs.com/package/next-persian-fonts\"><img src=\"https://img.shields.io/npm/dm/next-persian-fonts?color=0ea5e9\" alt=\"npm downloads\"></a>\n  <a href=\"https://github.com/amiryxe/next-persian-fonts\"><img src=\"https://img.shields.io/github/stars/amiryxe/next-persian-fonts?style=flat&logo=github&color=f59e0b\" alt=\"GitHub stars\"></a>\n  <a href=\"https://github.com/amiryxe/next-persian-fonts/blob/main/src/next-persian-fonts/LICENSE.md\"><img src=\"https://img.shields.io/badge/license-ISC%20%2B%20O"
+    },
+    {
+      "id": 1161958643,
+      "repo": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "topics": [
+        "accessibility",
+        "accessibility-api",
+        "ai-agents",
+        "automation",
+        "cli",
+        "computer-use",
+        "computer-use-agent",
+        "computer-use-agents",
+        "desktop-automation",
+        "macos",
+        "mcp",
+        "rust"
+      ],
+      "stars": 18218,
+      "readme_snippet": "# agent-desktop\n\nComputer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree.\n\n<p>\n  <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://www.npmjs.com/package/agent-desktop\"><img alt=\"npm version: agent-desktop\" src=\"https://img.shields.io/npm/v/agent-desktop.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://github.com/vercel-labs/agent-desktop/blob/main/LICENSE\"><img alt=\"License: Apache-2.0\" src=\"https://img.shields.io/github/license/vercel-labs/agent-desktop.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://www.npmjs.com/package/agent-desktop\"><img alt=\"npm downloads per month: agent-desktop\" src=\"https://img.shields.io/npm/dm/agent-desktop.svg?style=for-the-badge&amp;labelColor=000"
     }
   ]
 }
