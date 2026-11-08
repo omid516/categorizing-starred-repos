@@ -3798,6 +3798,39 @@
       ],
       "stars": 18218,
       "readme_snippet": "# agent-desktop\n\nComputer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree.\n\n<p>\n  <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://www.npmjs.com/package/agent-desktop\"><img alt=\"npm version: agent-desktop\" src=\"https://img.shields.io/npm/v/agent-desktop.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://github.com/vercel-labs/agent-desktop/blob/main/LICENSE\"><img alt=\"License: Apache-2.0\" src=\"https://img.shields.io/github/license/vercel-labs/agent-desktop.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://www.npmjs.com/package/agent-desktop\"><img alt=\"npm downloads per month: agent-desktop\" src=\"https://img.shields.io/npm/dm/agent-desktop.svg?style=for-the-badge&amp;labelColor=000"
+    },
+    {
+      "id": 1449628018,
+      "repo": "alipyth/roadgram",
+      "url": "https://github.com/alipyth/roadgram",
+      "description": "Telegram Project Manager",
+      "language": "Python",
+      "topics": [
+        "project",
+        "projectmanager",
+        "telegram"
+      ],
+      "stars": 6,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"assets/banner.svg\" alt=\"tgpm — Telegram Project Manager\" width=\"100%\">\n\n<br>\n\n**English** · [فارسی](README.fa.md)\n\n![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)\n![Dependencies](https://img.shields.io/badge/dependencies-zero-brightgreen)\n![License](https://img.shields.io/badge/license-MIT-blue)\n![Telegram](https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?logo=telegram&logoColor=white)\n![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)\n\n[🌐 Website](https://jahaniwww.com) · [📣 Telegram channel](https://t.me/tarfandoonchannel)\n\n</div>\n\n---\n\n## ✨ What is tgpm?\n\n**tgpm** keeps a project's roadmap, weekly plan and announcements inside a Telegram group, so a developer and a project manager (or a client) can follow progress in one place, with no other tool.\n\n<div align=\"center\">\n<img src=\"assets/flow.svg\" alt=\"ROADMAP.md → tgpm sync → Telegram\" width=\"90%\">\n</div>\n\nYou"
+    },
+    {
+      "id": 1438540053,
+      "repo": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "language": "Kotlin",
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "mobile-agent"
+      ],
+      "stars": 7624,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"docs/media/logo.png\" alt=\"Mika\" width=\"88\" />\n\n# Mika\n\n**An AI assistant on your phone: say what you need, and it works your apps and the web until it's done.**\n\nIt works on a hidden background screen, so you can keep using your phone.\n\n<a href=\"https://github.com/wangzan101/Mika/releases/latest\"><img src=\"https://img.shields.io/badge/Download%20APK-Android%2011%2B-2ea043?style=for-the-badge&logo=android&logoColor=white\" alt=\"Download APK\" /></a>\n\n<a href=\"https://github.com/wangzan101/Mika/stargazers\"><img src=\"https://img.shields.io/github/stars/wangzan101/Mika?style=flat&logo=github&label=Star&color=1f6feb\" alt=\"stars\" /></a>\n<a href=\"https://github.com/wangzan101/Mika/releases\"><img src=\"https://img.shields.io/github/downloads/wangzan101/Mika/total?label=downloads&color=2ea043\" alt=\"downloads\" /></a>\n<a href=\"https://github.com/wangzan101/Mika/releases/latest\"><img src=\"https://img.shields.io/github/v/release/wangzan101/Mika?include_prereleases&label"
     }
   ]
 }
