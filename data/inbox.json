@@ -3831,6 +3831,48 @@
       ],
       "stars": 7624,
       "readme_snippet": "<div align=\"center\">\n\n<img src=\"docs/media/logo.png\" alt=\"Mika\" width=\"88\" />\n\n# Mika\n\n**An AI assistant on your phone: say what you need, and it works your apps and the web until it's done.**\n\nIt works on a hidden background screen, so you can keep using your phone.\n\n<a href=\"https://github.com/wangzan101/Mika/releases/latest\"><img src=\"https://img.shields.io/badge/Download%20APK-Android%2011%2B-2ea043?style=for-the-badge&logo=android&logoColor=white\" alt=\"Download APK\" /></a>\n\n<a href=\"https://github.com/wangzan101/Mika/stargazers\"><img src=\"https://img.shields.io/github/stars/wangzan101/Mika?style=flat&logo=github&label=Star&color=1f6feb\" alt=\"stars\" /></a>\n<a href=\"https://github.com/wangzan101/Mika/releases\"><img src=\"https://img.shields.io/github/downloads/wangzan101/Mika/total?label=downloads&color=2ea043\" alt=\"downloads\" /></a>\n<a href=\"https://github.com/wangzan101/Mika/releases/latest\"><img src=\"https://img.shields.io/github/v/release/wangzan101/Mika?include_prereleases&label"
+    },
+    {
+      "id": 736322676,
+      "repo": "cmliu/edgetunnel",
+      "url": "https://github.com/cmliu/edgetunnel",
+      "description": "edgetunnel2 VLESS/Trojan/SS 多功能面板",
+      "language": "JavaScript",
+      "topics": [
+        "shadowsocks",
+        "shadowsocks-ws-tls",
+        "trojan",
+        "vless",
+        "vless-ws-tls"
+      ],
+      "stars": 49281,
+      "readme_snippet": "# 🚀 edgetunnel 2.1\n![后台页面](./img.png)\n\n[![Stars](https://img.shields.io/github/stars/cmliu/edgetunnel?style=flat-square&logo=github)](https://github.com/cmliu/edgetunnel/stargazers)\n[![Forks](https://img.shields.io/github/forks/cmliu/edgetunnel?style=flat-square&logo=github)](https://github.com/cmliu/edgetunnel/network/members)\n[![License](https://img.shields.io/github/license/cmliu/edgetunnel?style=flat-square)](https://github.com/cmliu/edgetunnel/blob/main/LICENSE)\n[![Telegram](https://img.shields.io/badge/Telegram-Group-blue?style=flat-square&logo=telegram)](https://t.me/CMLiussss)\n[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=LeT4jQUh8ok)\n[![zread](https://img.shields.io/badge/Ask_Zread-_.svg?style=flat-square&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3Zn"
+    },
+    {
+      "id": 1211574751,
+      "repo": "jongko54/webEmbedding",
+      "url": "https://github.com/jongko54/webEmbedding",
+      "description": "Source-first website cloning engine for AI agents with Playwright capture, HAR replay, self-verification, and MCP tools.",
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "browser-capture",
+        "claude-code",
+        "clone-website",
+        "frontend",
+        "har",
+        "llms-txt",
+        "mcp",
+        "mcp-server",
+        "playwright",
+        "site-reconstruction",
+        "visual-regression",
+        "web-automation",
+        "website-cloner",
+        "website-cloning"
+      ],
+      "stars": 13,
+      "readme_snippet": "# webEmbedding\n\n<!-- mcp-name: io.github.jongko54/web-embedding -->\n\n**webEmbedding clones any web page from its URL for AI coding agents.** Give Claude Code, Codex, Cursor, or any MCP client a URL and it returns a verified clone: the original embed when the page allows it, otherwise a self-contained offline HTML snapshot (inlined CSS, shadow DOM, localized fonts and images) or a bounded rebuild, scored against desktop, tablet, and mobile screenshots of the live page.\n\nAdd it to your agent in one line:\n\n```bash\nclaude mcp add web-embedding -- npx -y web-embedding@latest mcp   # Claude Code\ncodex mcp add web-embedding -- npx -y web-embedding@latest mcp    # Codex CLI\n```\n\nThen ask: *\"Clone https://example.com into ./clone and tell me the fidelity score.\"* (Machine-readable summary for LLMs: [`llms.txt`](./llms.txt).)\n\n`webEmbedding` is a source-first website cloning engine: it captures live pages with Playwright, replays network evidence from HAR artifacts, rebuilds only when direct reu"
     }
   ]
 }
