@@ -3883,6 +3883,36 @@
       "topics": [],
       "stars": 6142,
       "readme_snippet": "# Agent skills from Jane Street\n\nA collection of skills for AI agents and chatbots.\nEach skill is a directory containing a `SKILL.md` file\nwith instructions for the agent.\n\n## Skills\n\n- **socratic-tutor** — turns an LLM into a strict personal tutor that teaches a\n  topic of your choice using the Socratic method: a diagnostic, a skill map with\n  levels 0-5, one question at a time, spaced review, and a final assessment.\n\n## How to use\n\nWith a coding agent that supports the common `SKILL.md` format, copy the skill\ndirectory into your agent's skills folder, then ask the agent to use it\n(\"teach me X\").\n\nWith a plain chatbot, paste the body of the skill's `SKILL.md` into the chat\n(or into a custom/system prompt), followed by what you want it to do.\n"
+    },
+    {
+      "id": 1454235956,
+      "repo": "mojtabatn/keyvan-download-manager",
+      "url": "https://github.com/mojtabatn/keyvan-download-manager",
+      "description": "Minimal download manager for Windows",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 21,
+      "readme_snippet": "<div align=\"center\">\n\n**English** · [فارسی](README.fa.md)\n\n<img src=\"src/renderer/assets/icons/logo.svg\" width=\"96\" alt=\"KDM logo\" />\n\n# Keyvan Download Manager\n\n**A minimal, fast download manager for Windows and macOS, with a built-in video downloader.**\n\nMulti-connection downloads · Video grabber for YouTube, X and 1000+ sites · Queue and scheduler · 10 themes\n\n### Download\n\n<a href=\"https://github.com/mojtabatn/keyvan-download-manager/releases/latest/download/KDM-Setup.exe\"><img src=\"docs/buttons/windows-en.svg\" alt=\"Download for Windows\" height=\"56\" /></a>\n<a href=\"https://github.com/mojtabatn/keyvan-download-manager/releases/latest/download/KDM-mac-arm64.dmg\"><img src=\"docs/buttons/mac-arm-en.svg\" alt=\"Download for Mac (Apple Silicon)\" height=\"56\" /></a>\n<a href=\"https://github.com/mojtabatn/keyvan-download-manager/releases/latest/download/KDM-mac-x64.dmg\"><img src=\"docs/buttons/mac-intel-en.svg\" alt=\"Download for Mac (Intel)\" height=\"56\" /></a>\n\n[Portable Windows version](https:/"
+    },
+    {
+      "id": 1453156974,
+      "repo": "fullband7/openwrt-capmon",
+      "url": "https://github.com/fullband7/openwrt-capmon",
+      "description": "Per-client internet usage monitoring and data plans for OpenWrt",
+      "language": "Python",
+      "topics": [],
+      "stars": 7,
+      "readme_snippet": "<h1 align=\"center\">Capmon - Internet Usage Monitor</h1>\n\n<p align=\"center\">\n  Per-client internet usage monitoring and data plans for OpenWrt\n</p>\n\n<p align=\"center\">\n  <img alt=\"Python\" src=\"https://img.shields.io/badge/python-3.10%2B-blue\">\n  <img alt=\"Platform\" src=\"https://img.shields.io/badge/OpenWrt-24.10%20%7C%2025.12-blue?style=flat-square)](https://openwrt.org)\">  \n  <img alt=\"License\" src=\"https://img.shields.io/badge/license-Apache--2.0-green\">\n</p>\n\n<p align=\"center\">\n  <a href=\"#how-it-works\">Structure</a> -\n  <a href=\"#connecting-the-router-to-the-server\">Configuration</a> -\n  <a href=\"#3-router--quota-manager\">Installation</a>\n</p>\n\n## Overview\n\nCapMon is a small system made of two main parts that work together :\n\n| Part | Where it runs | What it does |\n| --- | --- | --- |\n| **Quota Manager** | Your OpenWrt router | Counts the download and upload of every device on your network, lets you give a device a data plan, and cuts its internet access when the plan is used up. |\n"
+    },
+    {
+      "id": 1450644775,
+      "repo": "amirparsadd/blu-statement-studio",
+      "url": "https://github.com/amirparsadd/blu-statement-studio",
+      "description": "Analyze your BluBank statements in a cleaner way and share the numbers with your friends!",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 5,
+      "readme_snippet": "# Statement Studio (Blu)\n\nA small, client-side web app that turns a Blu Bank statement export (`.xlsx`) into a readable summary: balance over time, spending by category, a searchable transaction table, CSV export, and a shareable summary card.\n\n- Vite + Vue 3 + TypeScript + Pinia + Tailwind CSS v4\n- Persian (RTL) interface, Yekan Bakh font\n- Files are read in the browser; nothing is uploaded anywhere\n\n## Features\n\n- Load one or more yearly exports. Overlapping rows are de-duplicated, so you can stack exports to go past Blu's one-year limit.\n- Enter your current balance. Blu's export only covers a year, so any difference from the last statement balance is treated as the balance carried in from before that year and applied to the whole history.\n- Transactions are grouped into categories (shopping, food, transport, bills, cash, transfers, and so on) by keyword matching. The rules are in `src/lib/categories.ts`, and they are a best guess until you tune them to your own statements.\n- Export"
     }
   ]
 }
