@@ -3913,6 +3913,16 @@
       "topics": [],
       "stars": 5,
       "readme_snippet": "# Statement Studio (Blu)\n\nA small, client-side web app that turns a Blu Bank statement export (`.xlsx`) into a readable summary: balance over time, spending by category, a searchable transaction table, CSV export, and a shareable summary card.\n\n- Vite + Vue 3 + TypeScript + Pinia + Tailwind CSS v4\n- Persian (RTL) interface, Yekan Bakh font\n- Files are read in the browser; nothing is uploaded anywhere\n\n## Features\n\n- Load one or more yearly exports. Overlapping rows are de-duplicated, so you can stack exports to go past Blu's one-year limit.\n- Enter your current balance. Blu's export only covers a year, so any difference from the last statement balance is treated as the balance carried in from before that year and applied to the whole history.\n- Transactions are grouped into categories (shopping, food, transport, bills, cash, transfers, and so on) by keyword matching. The rules are in `src/lib/categories.ts`, and they are a best guess until you tune them to your own statements.\n- Export"
+    },
+    {
+      "id": 1456785558,
+      "repo": "hamidrhaddad/rag",
+      "url": "https://github.com/hamidrhaddad/rag",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "stars": 1,
+      "readme_snippet": ""
     }
   ]
 }
