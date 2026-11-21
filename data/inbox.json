@@ -3923,6 +3923,37 @@
       "topics": [],
       "stars": 1,
       "readme_snippet": ""
+    },
+    {
+      "id": 1459971684,
+      "repo": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "language": "Rust",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "cli",
+        "code-migration",
+        "codex",
+        "ffi",
+        "golang",
+        "java",
+        "javascript",
+        "mcp",
+        "migration",
+        "napi",
+        "performance",
+        "porting",
+        "pyo3",
+        "python",
+        "rewrite",
+        "ruby",
+        "rust",
+        "typescript"
+      ],
+      "stars": 6788,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/logo.png\" width=\"160\" height=\"160\" alt=\"The rust-anything crab\">\n</p>\n\n<h1 align=\"center\">rust-anything</h1>\n\n<p align=\"center\"><sub>English · <a href=\"docs/README_TR.md\">Türkçe</a> · <a href=\"docs/README_UK.md\">Українська</a> · <a href=\"docs/README_ZH.md\">简体中文</a> · <a href=\"docs/README_ZH-TW.md\">繁體中文</a> · <a href=\"docs/README_DE.md\">Deutsch</a> · <a href=\"docs/README_FR.md\">Français</a> · <a href=\"docs/README_RU.md\">Русский</a> · <a href=\"docs/README_JA.md\">日本語</a> · <a href=\"docs/README_KO.md\">한국어</a> · <a href=\"docs/README_AZ.md\">Azərbaycanca</a> · <a href=\"docs/README_UZ.md\">Oʻzbekcha</a> · <a href=\"docs/README_KK.md\">Қазақша</a> · <a href=\"docs/README_KY.md\">Кыргызча</a> · <a href=\"docs/README_TK.md\">Türkmençe</a> · <a href=\"docs/README_TT.md\">Татарча</a> · <a href=\"docs/README_UG.md\">ئۇيغۇرچە</a> · <a href=\"docs/README_PT.md\">Português</a> · <a href=\"docs/README_VI.md\">Tiếng Việt</a></sub></p>\n\n<p align=\"center\"><b>Rewrite your app in "
     }
   ]
 }
