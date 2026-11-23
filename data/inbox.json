@@ -3954,6 +3954,16 @@
       ],
       "stars": 6788,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/logo.png\" width=\"160\" height=\"160\" alt=\"The rust-anything crab\">\n</p>\n\n<h1 align=\"center\">rust-anything</h1>\n\n<p align=\"center\"><sub>English · <a href=\"docs/README_TR.md\">Türkçe</a> · <a href=\"docs/README_UK.md\">Українська</a> · <a href=\"docs/README_ZH.md\">简体中文</a> · <a href=\"docs/README_ZH-TW.md\">繁體中文</a> · <a href=\"docs/README_DE.md\">Deutsch</a> · <a href=\"docs/README_FR.md\">Français</a> · <a href=\"docs/README_RU.md\">Русский</a> · <a href=\"docs/README_JA.md\">日本語</a> · <a href=\"docs/README_KO.md\">한국어</a> · <a href=\"docs/README_AZ.md\">Azərbaycanca</a> · <a href=\"docs/README_UZ.md\">Oʻzbekcha</a> · <a href=\"docs/README_KK.md\">Қазақша</a> · <a href=\"docs/README_KY.md\">Кыргызча</a> · <a href=\"docs/README_TK.md\">Türkmençe</a> · <a href=\"docs/README_TT.md\">Татарча</a> · <a href=\"docs/README_UG.md\">ئۇيغۇرچە</a> · <a href=\"docs/README_PT.md\">Português</a> · <a href=\"docs/README_VI.md\">Tiếng Việt</a></sub></p>\n\n<p align=\"center\"><b>Rewrite your app in "
+    },
+    {
+      "id": 1465876978,
+      "repo": "ChikyChikyBoomBoom/AntiRegister",
+      "url": "https://github.com/ChikyChikyBoomBoom/AntiRegister",
+      "description": "آنتی ریجستر: دو گوشی را با بلوتوث به هم وصل کن؛ گوشی ریجستر‌نشده‌ات را هر روز استفاده کن، در حالی که سیم‌کارت داخل گوشی ریجستر‌شده است. پیامک، مخاطبین و تاریخچه تماس (فقط خواندنی). نسخه بتا، بخش تماس در حال توسعه.",
+      "language": "Kotlin",
+      "topics": [],
+      "stars": 32,
+      "readme_snippet": "# AntiRegister | آنتی ریجستر\n\n**English** · [فارسی](#فارسی)\n\n> ⚠️ **Beta.** SMS, Bluetooth link, Contacts and read-only Call History are available. **The calling part is still under development and is switched off in this version.**\n\n---\n\n## English\n\n### What is AntiRegister?\n\nIn many countries a phone that is not *registered* (IMEI registration) can't use a local SIM card. Many people end up carrying **two phones**: a registered one that holds the SIM, and the phone they actually want to use every day.\n\n**AntiRegister connects those two phones over Bluetooth**, so you can use your daily phone for the things your SIM phone receives, without constantly picking up the second one.\n\n- **SIM Phone** – the registered phone with your SIM card. It stays in your bag or at home.\n- **Main Phone** – the phone you actually use. It shows and sends your messages through the SIM Phone.\n\n### What works in this beta\n\n- **SMS** – receive SMS that arrive on the SIM Phone and send SMS from the Main Phone t"
     }
   ]
 }
