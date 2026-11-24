@@ -3964,6 +3964,53 @@
       "topics": [],
       "stars": 32,
       "readme_snippet": "# AntiRegister | آنتی ریجستر\n\n**English** · [فارسی](#فارسی)\n\n> ⚠️ **Beta.** SMS, Bluetooth link, Contacts and read-only Call History are available. **The calling part is still under development and is switched off in this version.**\n\n---\n\n## English\n\n### What is AntiRegister?\n\nIn many countries a phone that is not *registered* (IMEI registration) can't use a local SIM card. Many people end up carrying **two phones**: a registered one that holds the SIM, and the phone they actually want to use every day.\n\n**AntiRegister connects those two phones over Bluetooth**, so you can use your daily phone for the things your SIM phone receives, without constantly picking up the second one.\n\n- **SIM Phone** – the registered phone with your SIM card. It stays in your bag or at home.\n- **Main Phone** – the phone you actually use. It shows and sends your messages through the SIM Phone.\n\n### What works in this beta\n\n- **SMS** – receive SMS that arrive on the SIM Phone and send SMS from the Main Phone t"
+    },
+    {
+      "id": 1468807636,
+      "repo": "aligh98/sileo_flutter",
+      "url": "https://github.com/aligh98/sileo_flutter",
+      "description": "Physics-based, 120Hz gooey morphing toast notifications for Flutter — with optional real-time GPU Liquid Glass & native RTL support.",
+      "language": "Dart",
+      "topics": [
+        "animation",
+        "dart",
+        "flutter",
+        "liquid-glass",
+        "notifications",
+        "rtl",
+        "spring-physics",
+        "toast"
+      ],
+      "stars": 2,
+      "readme_snippet": "<div align=\"center\">\n\n# sileo_glass\n\n**Physics-based, gooey morphing toast notifications for Flutter — with optional real-time GPU Liquid Glass.**\n\n[![pub package](https://img.shields.io/pub/v/sileo_glass.svg)](https://pub.dev/packages/sileo_glass)\n[![CI](https://github.com/aligh98/sileo_flutter/actions/workflows/ci.yml/badge.svg)](https://github.com/aligh98/sileo_flutter/actions/workflows/ci.yml)\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/aligh98/sileo_flutter/blob/main/LICENSE)\n\nInspired by [hiaaryan/sileo](https://github.com/hiaaryan/sileo). Built for 120Hz smoothness, real spring physics, and native LTR/RTL support.\n\n<br />\n\n<img src=\"https://raw.githubusercontent.com/aligh98/sileo_flutter/main/media/hero_showcase.gif\" alt=\"sileo_glass showcase — Dark Liquid Glass, Light Liquid Glass, and Persian RTL\" width=\"760\" />\n\n</div>\n\n---\n\n## Showcase\n\n<table>\n  <tr>\n    <td align=\"center\" width=\"25%\">\n      <img src=\"https://raw.githubusercontent"
+    },
+    {
+      "id": 1468323153,
+      "repo": "mallahyari/tiny-ava",
+      "url": "https://github.com/mallahyari/tiny-ava",
+      "description": "tiny-ava: 4.5M-parameter Persian (Farsi) TTS models (PyTorch & ONNX, 24 kHz, 38-77x real-time on CPU)",
+      "language": "Python",
+      "topics": [],
+      "stars": 41,
+      "readme_snippet": "# tiny-ava\n\nA **4.5M-parameter (~18 MB PyTorch / ~20 MB ONNX)** Persian (Farsi) text-to-speech model trained **from scratch** on ~20 hours of synthetic speech, built on top of [`tiny-voca`](https://github.com/n4ze3m/tiny-voca). It runs **38×–77× faster than real time on CPU** and **100% client-side in your browser** via ONNX Runtime Web (~29 MB total including Persian G2P).\n\n- **Live in-browser demo:** https://huggingface.co/spaces/mehdi-hf/tiny-ava-demo\n- **Hugging Face model:** https://huggingface.co/mehdi-hf/tiny-ava\n\n![tiny-ava browser demo](assets/demo-screenshot.png)\n\n---\n\n## Quickstart: Run the Browser Demo Locally\n\nNo build step, no Node.js, no PyTorch, and no GPU needed — just Python 3's standard library:\n\n```bash\ngit clone https://github.com/mallahyari/tiny-ava.git\ncd tiny-ava\npython3 demo/serve_local.py\n```\n\nThen open **`http://127.0.0.1:8788`** in Chrome, Safari, Firefox, or Edge:\n1. Click **Download models (~29 MB)** (or click **Speak** directly).\n2. The first visit caches"
+    },
+    {
+      "id": 1467488550,
+      "repo": "amirwmr/tether",
+      "url": "https://github.com/amirwmr/tether",
+      "description": "Use an Android phone's calls, SMS, contacts and call history from your iPhone over an end-to-end encrypted Bluetooth link. No server, no account.",
+      "language": "C",
+      "topics": [
+        "android",
+        "bluetooth-low-energy",
+        "callkit",
+        "ios",
+        "kotlin",
+        "sms",
+        "swift"
+      ],
+      "stars": 51,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/images/logo.svg\" width=\"112\" alt=\"Tether logo\">\n</p>\n\n<h1 align=\"center\">Tether</h1>\n\n<p align=\"center\"><b>Your Android phone's calls, texts, contacts and call history on your iPhone, iPad or a second\nAndroid phone, over an end-to-end encrypted Bluetooth link. No server, no account.</b></p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/amirwmr/tether/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://img.shields.io/github/actions/workflow/status/amirwmr/tether/ci.yml?branch=main&label=CI\"></a>\n  <a href=\"https://github.com/amirwmr/tether/releases/latest\"><img alt=\"Latest release\" src=\"https://img.shields.io/github/v/release/amirwmr/tether?include_prereleases&sort=semver\"></a>\n  <a href=\"LICENSE\"><img alt=\"License: MIT\" src=\"https://img.shields.io/badge/license-MIT-blue\"></a>\n  <img alt=\"Android 10+\" src=\"https://img.shields.io/badge/Android-10%2B-3DDC84?logo=android&logoColor=white\">\n  <img alt=\"iOS 16+\" src=\"https://img.shields.io/badge/iOS-16"
     }
   ]
 }
