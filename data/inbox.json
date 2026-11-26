@@ -4011,6 +4011,23 @@
       ],
       "stars": 51,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/images/logo.svg\" width=\"112\" alt=\"Tether logo\">\n</p>\n\n<h1 align=\"center\">Tether</h1>\n\n<p align=\"center\"><b>Your Android phone's calls, texts, contacts and call history on your iPhone, iPad or a second\nAndroid phone, over an end-to-end encrypted Bluetooth link. No server, no account.</b></p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/amirwmr/tether/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://img.shields.io/github/actions/workflow/status/amirwmr/tether/ci.yml?branch=main&label=CI\"></a>\n  <a href=\"https://github.com/amirwmr/tether/releases/latest\"><img alt=\"Latest release\" src=\"https://img.shields.io/github/v/release/amirwmr/tether?include_prereleases&sort=semver\"></a>\n  <a href=\"LICENSE\"><img alt=\"License: MIT\" src=\"https://img.shields.io/badge/license-MIT-blue\"></a>\n  <img alt=\"Android 10+\" src=\"https://img.shields.io/badge/Android-10%2B-3DDC84?logo=android&logoColor=white\">\n  <img alt=\"iOS 16+\" src=\"https://img.shields.io/badge/iOS-16"
+    },
+    {
+      "id": 1469418319,
+      "repo": "NabuxAi/bale-mcp",
+      "url": "https://github.com/NabuxAi/bale-mcp",
+      "description": "Community Bale (بله) MCP server by NabuxAI: bot API and your own account via Bale Web",
+      "language": "JavaScript",
+      "topics": [
+        "bale",
+        "claude",
+        "iran",
+        "mcp",
+        "messenger",
+        "model-context-protocol"
+      ],
+      "stars": 3,
+      "readme_snippet": "# Bale MCP (بله)\n\n[![npm](https://img.shields.io/npm/v/@nabuxai/bale-mcp)](https://www.npmjs.com/package/@nabuxai/bale-mcp) [![CI](https://github.com/NabuxAi/bale-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/NabuxAi/bale-mcp/actions/workflows/ci.yml) ![license](https://img.shields.io/badge/license-MIT-blue)\n\nیک سرور MCP برای پیام‌رسان بله، تا دستیار هوش مصنوعی (Claude، Cursor، ChatGPT و …) بتواند پیام بخواند و بفرستد. دو حالت دارد:\n\n- **حالت بات** — Bot API رسمی بله (سازگار با تلگرام): متن، فایل، ویرایش، حذف، دریافت پیام‌ها، اطلاعات گفتگو.\n- **حالت وب (اکانت خودتان)** — Bale Web در یک پنجره‌ی Chrome محلی با پروفایل جدا باز می‌شود و با اکانت خودتان کار می‌کند. یک بار خودتان وارد می‌شوید (کد ورود و رمز دومرحله‌ای را **فقط خودتان در همان پنجره** می‌زنید) و ورود ذخیره می‌ماند. 26 قابلیت از 26.\n\n> English summary below.\n\n## نصب در Claude Code / Claude Desktop / Cursor\n\n```json\n{\n  \"mcpServers\": {\n    \"bale\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"@nabuxai/bale-mcp\"],"
     }
   ]
 }
