@@ -4028,6 +4028,16 @@
       ],
       "stars": 3,
       "readme_snippet": "# Bale MCP (بله)\n\n[![npm](https://img.shields.io/npm/v/@nabuxai/bale-mcp)](https://www.npmjs.com/package/@nabuxai/bale-mcp) [![CI](https://github.com/NabuxAi/bale-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/NabuxAi/bale-mcp/actions/workflows/ci.yml) ![license](https://img.shields.io/badge/license-MIT-blue)\n\nیک سرور MCP برای پیام‌رسان بله، تا دستیار هوش مصنوعی (Claude، Cursor، ChatGPT و …) بتواند پیام بخواند و بفرستد. دو حالت دارد:\n\n- **حالت بات** — Bot API رسمی بله (سازگار با تلگرام): متن، فایل، ویرایش، حذف، دریافت پیام‌ها، اطلاعات گفتگو.\n- **حالت وب (اکانت خودتان)** — Bale Web در یک پنجره‌ی Chrome محلی با پروفایل جدا باز می‌شود و با اکانت خودتان کار می‌کند. یک بار خودتان وارد می‌شوید (کد ورود و رمز دومرحله‌ای را **فقط خودتان در همان پنجره** می‌زنید) و ورود ذخیره می‌ماند. 26 قابلیت از 26.\n\n> English summary below.\n\n## نصب در Claude Code / Claude Desktop / Cursor\n\n```json\n{\n  \"mcpServers\": {\n    \"bale\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"@nabuxai/bale-mcp\"],"
+    },
+    {
+      "id": 1231859722,
+      "repo": "weex-labs/weex-agent-skills",
+      "url": "https://github.com/weex-labs/weex-agent-skills",
+      "description": "Use this skill in Codex / Openclaw / Claude Code to automate WEEX futures and spot tasks with natural language.",
+      "language": "Python",
+      "topics": [],
+      "stars": 14,
+      "readme_snippet": "# WEEX Agent Skills\n\n[中文版本](README.zh-CN.md)\n\nThis repository provides WEEX skill installation paths for Codex, Claude Code, Cursor, GitHub Copilot, and OpenClaw. The local installer covers the first four hosts. OpenClaw uses a fixed local Git checkout with skill-directory symlinks, managed by the repository's update script.\n\nAfter installing the skills, you can ask your AI tool to check WEEX market data, review account state, collect trading history, preview order risk, create an automated monitor, or analyze WEEX trading records. For normal use, you do not need to run the Python scripts directly. Start from the skill name in chat.\n\nA skill is an add-on instruction package for your AI tool. Mentioning `$weex-trader-skill`, `$weex-analysis-skill`, `$weex-monitor-skill`, or `$weex-partner-skill` tells the AI which WEEX workflow to use.\n\n## Start Here\n\n1. Recommended: ask your AI tool to install the skills for you:\n\n```text\nInstall all WEEX Agent Skills from https://github.com/weex-labs/"
     }
   ]
 }
